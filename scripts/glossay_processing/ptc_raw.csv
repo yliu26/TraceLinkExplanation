@@ -1,0 +1,74 @@
+Acronym,Concept,Definition
+,Address Resolution Table,A table in an ELM which is used to keep track of RF connections through attached radios.
+AMQP,Advanced Message Queuing Protocol,A standard messaging protocol used by the ITC Messaging System.
+AAR,American  Association of Railroads,Industry association for North American rail industry. A major standards-generating body.
+AG,Application Gateway,ITC Messaging System component which applications connect to and through which they send messages into the system and get messages from the system.
+,Area,A subset of the Messaging System that has defined boundaries and physically hosts Messaging System components.
+BO,Back Office,A facility containing network infrastructure for railroad operations.
+BOS,Back Office Server,Used in this document in a generic manner to mean the primary message handling service in the back office (especially for PTC messages). This term is not meant to refer to the ARINC BOS software package which is also known by that acronym.
+,Beacon,"Unsolicited, periodic, broadcast message. Currently two types of beacons are supported in the system. There is a base beacon which advertises information about a base station and there is a generic capability to send FTDMA beacons (e.g. used for wayside status beacons)."
+,Broker,Used synonymously with router and ITPR. A component of the ITC Messaging System which routes messages through the system and chooses the underlying networks to use.
+CSMA,Carrier Sense Multiple Access,An air access technique where a transceiver senses activity on a channel before transmitting. See section 6.2.4.
+CR,Change Request,An initiative that is submitted into a change control process in an organization.
+,Class C,An AAR published protocol which is substantially based upon UDP/IP.
+CBTC,Communication Based Train Control,Older terminology which can be considered to be synonymous with PTC or ITC.
+CIM,Configuration Information Module,A removable device used primarily to store site specific configuration information and log files. The CIM typically is associated with an installation location and can be transferred from one radio to another to maintain application continuity.
+,Class D,A protocol that converts a stream based TCP protocol to a message or transaction based protocol. Class D also adds support for features such as connection monitoring/persistence and high availability. See section6.3.1.
+DHCP,Dynamic Host Control Protocol,A computer networking protocol that dynamically assigns IP addresses to devices on a network.
+DTDMA,Dynamic Time Division Multiple Access,An air access technique where time is dynamically divided up into slots and assigned to a transmitter based upon traffic load. See section 6.2.4.
+DQPSK,Differential Quadrature Phase Shift Keying,A linear modulation waveform that relies on the difference between successive phases of a signal rather than the absolute phase position. The DQPSK modulation has 2 bits per symbol and a symbol rate of half the bit rate. See section 6.2.2.
+EMP,Edge Message Protocol,An AAR published application level protocol.
+ERP,Effective Radiated Power,A standardized theoretical measurement of RF energy using the unit watts.
+ETMS,Electronic Train Management System,An application which runs onboard the locomotive on the TMC and which provides information to the crew as well as providing a safety backup by slowing or stopping the train if necessary.
+ELM,External Link Manager,A software application that is the bridge between the ITC Messaging System and the ITC 220MHz Network.
+FCC,Federal Communications Commission,Wired and wireless communications regulating body of the United States.
+FTDMA,Fixed Time Division Multiple Access,An air access technique where time is statically divided up into slots and assigned to users or message sources through configuration. See section 6.2.4.
+FEC,Forward Error Correction,A system of error control whereby the sender adds compressed redundant data to its messages that allow the receiver to detect and correct errors (within some bound) without the need to resend any data. See section 6.2.8.
+FSU,FTDMA Slot Unit,An FTDMA frame is broken into units called FSUs. FTDMA slots are defined by a starting FSU and a length in FSUs. See section 7.5.2.
+GPS,Global Positioning System,A space-based satellite system which provides position and time information at any location on a continuous basis.
+,GPS Timing Chip,"A GPS chip developed with a focus on providing accurate time. With a good position (surveyed for example), these chips can generally provide accurate time even with a lock on only 1 satellite."
+,Headroom,Capacity in the network planned for unanticipated PTC load peaks as well as for business load (lower priority) when not in use by PTC. See section 5.4.
+HRX,Host/Radio eXchange (protocol),"An application level protocol used for 
+communications between a radio and an ELM. See section 6.3."
+,Inbound Messages,Messages which are travelling from a remote area (locomotive or wayside) into an office.
+,Interoperable,Communications directly between the remote asset of one railroad and the office of another railroad.
+ISMP,ITC System Management Protocol,An application level protocol that is used for all communication regarding ITC System Management (SMS). See section 6.5.
+ITC,Interoperable Train Control,"A communications-based method of controlling and monitoring train movement, permitting multiple Railroads to share track and facilities."
+ITCSM,ITC System Management,"A part of the ITC Communication System responsible for managing the network and devices connected to the network. This includes monitoring and managing alarms, log access, configuration management, and so on."
+ITP,ITC Transport Protocol,A generic term for the protocol used by the ITC Messaging System to transport messages from one end of the messaging system to the other end (AG to AG). ITP will actually be implemented as AMQP.
+,ITCnet,The air interface protocol used by the ITC 220 MHz radios to communicate with each other. See section 6.2.
+ITPR,ITP Router,Used synonymously with broker and router. A component of the ITC Messaging System which routes messages through the system and chooses the underlying networks to use.
+,Link,"A connection between two directly connected messaging components (for example, between an ELM and a router/broker)."
+MPLS,Multiprotocol Label Switching,"A mechanism for creating high-performance ""virtual links"" between network nodes which can encapsulate packets of various network protocols. Used as the method of connecting the various railroad back office networks."
+NMS,Network Management System,Used as a synonym for System Management in this document.
+,OSI 7 Layer Model,A standard layered description for communications and computer network protocol design published as part of the Open Systems Interconnection (OSI) initiative.
+,Outbound Messages,Messages which are travelling from an office to a remote area (locomotive or wayside).
+,Peer to Peer,"Communications directly between nearby remote areas (i.e. locomotives or waysides) without going through any back office components. Peer to peer 
+communications are only supported over the 220 MHz Radio Network and will work when there is no base coverage."
+,π/4 DQPSK,A variation of DQPSK waveform with phase transitions rotated by 45 degrees. See section 6.2.2.
+PTC,Positive Train Control,"An umbrella term that refers to technology focused on preventing train-to-train collisions, over-speed derailments, and casualties or injuries to roadway workers. See section 2.1."
+PA,Power Amplifier,"A device in the radio that changes, usually increases, the amplitude of an RF signal."
+,Preemption,Stopping/deferring the processing of a lower priority message in order to quickly process a higher priority message. See section 3.
+,"PTC 220, LLC",An organization which owns 220 MHz spectrum for use in the ITC Communications System.
+QoS,Quality of Service,Information used by an application to give specific instructions to the Messaging System about how to handle a message. See section 7.4.1.
+RF,Radio Frequency,
+RSIA,Rail Safety Improvement Act,A law from 10/16/2008 requiring an interoperable PTC system to be implemented by the end of 2015. See section 2.2.
+RX,Receive,Refers to either a receiver or reception.
+,Remote,"Used to refer to an area or asset which is not an office (that is, locomotive or wayside). Also used to refer to a radio on the other side of an RF connection from the radio under discussion."
+,RF Connection,A connection between two radios.
+RRC,Root Raised Cosine,The square root of the raised cosine function used as a transmit/receive filter. See section 6.2.2.
+,Router,Used synonymously with broker and ITPR. A component of the ITC Messaging System which routes messages through the system and chooses the underlying networks to use.
+SNMP,Simple Network Management Protocol,A standard UDP-based network protocol which will be used as part of the ITC System Management solution between managed devices or components and the SM Agents managing them.
+,Slotted CSMA,An air access technique similar to CSMA but organizing the channel into slots and then only starting a transmission at the beginning of a slot. See section 6.2.4.
+,SM Agent,"A component of the ITC System Management System which will manage devices and 
+components on the same local network on which it is running and which will use the ITC Messaging system to communicate to a System Management Server or Console as necessary."
+SDR,Software Defined Radio,A radio technology where components that have typically been implemented in hardware are instead implemented using software.
+TDD,Time Division Duplex,Emulation of full duplex over a half-duplex communication link by having designated time allocations for traffic in each direction.
+TTL,Time to Live,The amount of time that a message should live before being discarded by the messaging system. See section 7.4.1.
+,Track Database,A database onboard a locomotive with information about the track and waysides along a route. This information is used by the ETMS/TMC to implement PTC functionality.
+TMC,Train Management Computer,A vital computer onboard a locomotive that implements PTC functionality. The ETMS application runs on the TMC. See section 2.2.
+TX,Transmit,Refers to either a transmitter or transmission.
+,Transport,A term used to designate a network (usually RF)
+VDU,Video Display Unit,A non-vital display onboard a locomotive used by the TMC to display PTC information to the crew. See section 2.2.
+,Vital,A term used to indicate that something requires fail-safe operation as part of a critical safety system.
+WIU,Wayside Interface Unit,"Devices alongside the track that gather and pass along signal status, switch position, and track status information."

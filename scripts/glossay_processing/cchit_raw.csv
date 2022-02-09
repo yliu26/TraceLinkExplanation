@@ -1,0 +1,1083 @@
+1358,"VA Form 1358, Estimated Miscellaneous Obligation or Change in Obligation"
+2138,"VA Form 90-2138, Order for Supplies or Services (first page of a VA Purchase Order)"
+2139,"VA Form 90-2139, Order for Supplies or Services (Continuation) (continuation sheet for Form 90-2138)"
+2237,"VA Form 2237, used to request goods and services.
+VA Form 90-2237, Request, Turn-in and Receipt for Property or Services (used to request goods and services)"
+3PB,"Third Party Billing package
+The 3PB package is designed to automate the creation of a claim using existing RPMS data, allow for editing, print a bill, and track payment activity. (ABM - namespace.)"
+A&MM,Acquisition and Materiel Management
+AAA,"(Veteran Health Administration) Authentication, Authorization and Accountability Standards"
+AAC (renamed to CFD),"The Austin Automation Center
+has been renamed the Austin Corporate Franchise Datacenter (CFD). AAC is a corporate data center for VA. The central repository for National Patient Care Database is maintained at the AAC."
+AACS,"Automated Allotment Control System
+Central computer system developed by VHA to disburse funding from VACO to field stations."
+AAIP,Authentication and Authorization Infrastructure Program
+AAIS,automated anesthesia information system
+abbreviated response,This feature allows you to enter data by typing only the first few characters for the desired response. This feature will not work unless the information is already stored in the computer.
+access code,"A code that, along with the Verify code, allows the computer to identify you as a user authorized to gain access to the computer. Your code is greater than 6 and less than 20 characters long; can be numeric, alphabetic, or a combination of both; and is usually assigned by a site manager or application coordinator. It is used by the Kernel's Sign-on/Security system to identify the user (see Verify Code)."
+ACC,"Accounting Classification Code
+Nine-character codes used for budget purposes. The FMS ACC’s replace CALM Fund Control Points."
+ACR,"Index for Radiological Diagnosis
+medical standards"
+active patients,Patients who have been seen at a site within the past three years.
+Activity Code,The last two digits of the AACS number. Each station defines it.
+ADC,Average Daily Census
+ADCP,"Ambulatory Data Capture Project
+ADCP was formed to coordinate the various VISTA packages involved in meeting this mandate. AICS Automated Information Collection System, formerly Integrated Billing, the program that makes Encounter Forms."
+ADPAC,"Automated Data Processing (ADP) Application Coordinator, Application Coordinator
+Designated individuals responsible for user-level management and maintenance of a software application (e.g., Laboratory). Also abbreviated as ADPAC (ADP Application Coordinator)."
+ADR,The Administrative Data Repository is a centralized database repository for person (PATIENT #2 and NEW PERSON #200 files).
+Administrative Code Sets,Code sets that characterize a general business situation rather than a medical condition or service.
+A/S,"Administrative Simplification
+Title II, Subtitle F, of HIPAA, which gives the Department Of Health And Human Services (DHHS) the authority to mandate the use of standards for the electronic exchange of health care data; to specify what medical and administrative code sets should be used within those standards; to require the use of national identification systems for health care patients, providers, payers (or plans), and employers (or sponsors); and to specify the types of measures required to protect the security and privacy of personally identifiable health care information."
+ADT,"Admission, Discharge, Transfer
+The ADT module of the PIMS package provides a comprehensive range of software dedicated to the support of administrative functions related to patient admission, discharge, transfer, and registration. The functions of this package apply throughout a patient's inpatient and/or outpatient stay, from registration, eligibility determination and Means Testing through discharge with on-line transmission of Patient Treatment File (PTF) data to the Austin Automation Center. The ADT software also aids in recovery of cost of care by supplying comprehensive PTF/RUGII and Means Test software.
+With V. 2.2 of Order Entry/Results Reporting, OE/RR notifications for ADT may bedisplayed for admissions, death discharges, deaths, and unscheduled (1010) visits."
+ADT/HL7 pivot file,"Changes to any of the fields of patient information will be recorded and an entry created in the ADT/HL7 PIVOT file (#391.71). When an update to a patient’s treating facility occurs, this event is to be added to the ADT/HL7 PIVOT file (#391.71) and marked for transmission. A background job will collect these updates and broadcast the appropriate HL7 message (ADT-A08 Patient Update)."
+AE,Application Entity
+AEMS/MERS,"The Engineering package, otherwise known as Automated Engineering Management System /Medical Equipment Reporting System (AEMS/MERS) was released on a national basis in 1985. It is the outgrowth of work that was begun at the Washington VA Medical Center in the late 1970s.
+In September of 1988, Engineering Service and the Office of Acquisition and Materiel Management (A&MM) jointly decided that the Engineering Equipment file should become a shared resource. This version of Engineering includes all data elements required for establishing and maintaining Integrated Supply Management System (ISMS) nonexpendable equipment records.
+Name of the computer system located at each medical center to support Consolidated Memorandum of Receipts."
+AFC,Austin Finance Center
+AIB,"AIB – Area Record Consolidation
+The Area Data Consolidation System is designed to consolidate and merge data sent to the NPIRS. The facilities send the unprocessed data to the Area Office where it is processed and sent on to NPIRS to be merged and consolidated. Its target audience is the Area Office ISC.
+The Area Data Consolidation System (AIB) system allows the Area Office to process data sent from the facilities on a monthly basis. That data is then processed and sent to the National Patient Information Reporting System (national data repository) (NPIRS) in Albuquerque, New Mexico."
+AICS (IBD),"Automated Information Collection System
+The AICS package contains all the software necessary to design, edit, and assign encounter forms to clinics; print forms for appointments with patient data; and print with or without patient data for patients without an appointment. The software enables collection of outpatient clinical and administrative data; and provides a more organized, less obtrusive method of data collection to the clinician and supporting clerical staff. AICS is a hybrid system designed to use commercial software for the scanning and image processing of forms.
+Automated Information Collection System, formerly called Integrated Billing; software developed at Albany IRMFO, supported by MCCR, producing scannable Encounter Forms."
+AI/RHEUM,"Disease/Findings Knowledge Base
+a structured knowledge base formal criteria for 26 rheumatologic diseases. The system has been retrospectively tested against 384 clinical cases."
+ALD Code,"Appropriation Limitation Department. A set of Fiscal codes, which identifies the appropriation, used for funding."
+alerts,"Brief online notices that are issued to users as they complete a cycle through the menu system. Alerts are designed to provide interactive notification of pending computing activities, such as the need to reorder supplies or review a patient’s clinical test results. Along with the alert message is an indication that the View Alerts common option should be chosen to take further action."
+ALOS,Average Length of Stay
+AMIE (DVBA),"Automated Medical Information Exchange
+The AMIE software automates the administrative procedures involved in sending medical information used in determining veteran benefit payments from the VA medical centers to the VA regional offices.
+The AMIE package is composed of two separate modules; 7131/7132 and 2507 Compensation and Pension. Each of these sections provides requesting, tracking, and reporting functions for the various requests entered.
+The AMIE module facilitates the electronic interchange of veteran information between VBA Regional Offices (ROs) and VA medical facilities. The comprehensive module provides an accurate audit trail to track most requests for information. The module is composed of two components: Facility administrative options and VBA Regional Office options. Each area has individual items to maintain daily, and its own reports to print. RO staff access VA medical facility computers through VA national telecommunications network, and exercise their options on each local medical facility’s system as necessary. [Monograph]"
+AMIS,Automated Management Information System
+ancillary reviewer,"This can be a single person or group of people given the responsibility to conduct reviews of potential duplicate record pairs with data in files other than the PATIENT file (#2). For example, selected personnel in Laboratory, Radiology, and Pharmacy."
+Ancillary Service/Occasion of Service,"A specified instance of an act of service involved in the care of a patient or consumer which is not an encounter. These occasions of service may be the result of an encounter; for example, tests or procedures ordered as part of an encounter. A patient may have multiple occasions of service per encounter or per visit."
+ANR,Automated Notification Report
+ANSI MUMPS,The MUMPS programming language is a standard recognized by the American National Standard Institute (ANSI). MUMPS stands for Massachusetts Utility Multi-programming System and is abbreviated as M.
+API,Application Program Interface
+application,A system of computer programs and files that have been specifically developed to meet the requirements of a user or group of users. Examples of VistA applications are the PIMS and Vitals/Measurements application.
+application coordinator,"Designated individuals responsible for user-level management and maintenance of an application package such as IFCAP, Lab, Pharmacy, Mental Health, etc."
+Application Data,"From a CCOW perspective, this is the patient record that is open in the active application. When joining a clinical context, select Use Application Data to force all open CCOW-compliant applications to switch to the patient that is open in the active application."
+AR,Accounts Receivable
+ART (GMRA),CPRS: Adverse Reaction Tracking
+AR/WS (PSGW),Automatic Replenishment/Ward Stock
+ASA Class,This is the American Society of Anesthesiologists classification relating to the patient’s physiologic status. Numbers followed by an 'E' indicate an emergency.
+ASCD,Automated Service Connected Designation
+ASISTS,Automated Safety Incident Surveillance Tracking System
+ASU (USR),"Authorization/Subscription Utility
+an application that allows sites to associate users with user classes, allowing them to specify the level of authorization needed to sign or order specific document types and orderables. ASU is distributed with TIU in this version; eventually it will probably become independent, to be used by many VISTA packages."
+attending code,Code that corresponds to the highest level of supervision provided by the attending staff surgeon during the procedure.
+attending physician,Supervising physician who is responsible for the care of the patient.
+audit trail,"A history of the changes made to a record including old data, new data, and the name of the user who made the change."
+Auto Instrument Interface,Method of transferring information gathered using a medical device to the DHCP database.
+auto-update,"The term ""auto-update"" refers to fields that are updated from a central database (i.e., the Master Patient Index)."
+back door,"System access via the roll and scroll, character and Mumps based VistA application."
+batch type,"The batch type is set in which the code sheet definitions are grouped. For example, the code sheets for Medicine are all grouped under the batch type ‘MEDICINE’. Security prevents unauthorized users from accessing code sheets outside of their selectable batch type."
+batching,Batching is the method for grouping a set of code sheets into a set. The group of code sheets can then be transmitted within the same message. Batching is usually done by ‘batch type’ (service) or by ‘system identifier’ (AMIS).
+batch acknowledgements,"The format of a HL7 batch acknowledgement message consists entirely of a group of ACK (acknowledgment) messages. In the case of MPI, batch acknowledgements are returned during the initialization process and during the Local/Missing ICN Resolution job. The background job files the ICN, ICN checksum and CMOR, updates the MPI, and then the associated treating facilities and systems. Data returned from this process constitute the acknowledgment of the batch message."
+batch messages,"There are instances when it is convenient to transfer a batch of HL7 messages. Common examples related to MPI are queries sent to the MPI for an ICN during the initialization process and the resolution of Local or Missing ICNs,. Such a batch could be sent online using a common file transfer protocol. In the case of the MPI, the HL7 Batch Protocol uses the Batch Header Segment (BHS) and Batch Trailer Segment (BTS) message segments to delineate the batch."
+batch number,A unique number assigned by the computer to identify a batch (group) of Code Sheets. Code Sheets may be transmitted by Batch Number or Transmission Number.
+"batch protocol, HL7","Protocol utilized to transmit a batch of HL7 messages. The protocol generally uses File Header Segment (FHS), BHS, BTS, and File Trailer Segment (FTS) segments to delineate the batch. In the case of the MPI, the protocol only uses the BHS and BTS segments."
+BCMA,"Bar Code Medication Administration. A VistA software application that validates medications against active orders before the medication is given to the patient.
+BCMA is a bedside application that validates the administration of medications. It was installed nationwide in the 1999/2000 timeframe. BCMA enables nursing to use a bedside computerized medication administration record (MAR) implemented via wireless laptop computers and hand-held scanners. Patient identification wristbands and nursing staff identification cards are bar-coded with unique identifying numbers. Medications are packaged in plastic containers with bar-coded content identifiers and placed on the medication carts by the pharmacy service. To administer a medication, the nurse scans the patient's wristband, the packaged medication, and the employee id card. The data are sent to an electronic MAR. Advantages include positive verification of patient identification and prescribed medication at the point of care, an immediate alerting capability to prevent the wrong medication from being administered, precise medication administration documentation noting on time, early and late dosing, and automated missing dose requisition."
+BHIE,Bidirectional Health Information Exchange
+BIRLS,"Beneficiary Information and Records Locator Subsystem
+VBA IBBA"
+blockout graph,Graph showing the availability of operating rooms.
+BMA,bone marrow aspirates
+BMB,bone marrow biopsies.
+BOC,"Budget Object Code
+Four-digit number used to identify purchases. The FMS BOC’s are equivalent to CALM subaccounts.
+Fiscal accounting element that tells what kind of item or service is being procured. Budget object codes are listed in VA Handbook 4671.2"
+Boilerplate Text,"A pre-defined TIU template that can be filled in for Titles, speeding up the entry process. TIU exports several Titles with boilerplate text which can be modified to meet specific needs; sites can also create their own."
+BP,"Background Processor
+The VistA Imaging System is an extension to the VistA. The VistA Imaging Background Processor (BP) runs on a dedicated Windows Workstation (WS) connected to VistA by way of a TCP/IP connection using the VistA Remote Procedure Call (RPC) Broker. The Background Processor provides the following functions:
+- Management of image storage on various shared network devices.
+- Migration of image files between magnetic VistA Imaging Shares and jukebox storage units.
+- Maintenance of adequate free storage space on magnetic storage devices.
+- Copying of image files to the VistA Imaging Shares whenever they are requested by image display workstations.
+- Validations of VistA Imaging network file references.
+- Configuration of the local VistA Imaging site parameters.
+- Error recovery.
+- Activity and error logging.
+- Importing Images into VistA.
+- Exporting Images from VistA."
+BPWS,Background Processor Workstation.
+BRC,"Blind Rehabilitation Center
+A residential inpatient program that provides comprehensive adjustment to blindness training and serves as a resource to a catchments area usually comprised of multiple Veterans Integrated Service Networks (VISN)."
+Breakout Code,"A set of A&MM codes which identifies a vendor by the type of ownership (e.g., Minority-owned, Vietnam Veteran Owned, Small Business Total Set Aside, etc.)."
+BROS,"Blind Rehabilitation Outpatient Specialist
+Blind Rehabilitation instructors possessing advanced technical knowledge and competencies in at least two Blind Rehabilitation disciplines at the journeyman level."
+BRP,Blind Rehabilitation Project
+BRC Application Letter,This is a cover letter for a Blind Rehabilitation Center (BRC) Application packet. This letter requires editing and is used to print for individual veterans.
+BRC Follow-up Letter,This is a questionnaire sent to the veteran following blind rehabilitation training. It is used to assist the center or clinic in following-up on the veteran.
+breakeven day,A day on which the actual cost of care equals the estimate.
+BSE,"Broker Security Enhancement
+has been added to VistAWeb. BSE provides for improved security in site authentication. It is transparent to the user. The"
+budget analyst,"Fiscal employee responsible for distributing and transferring funds.
+Two primary Budget Analyst goals: creating/funding Control Points and managing budgets. The Funds Distribution Program Menu is broken down into these areas of functionality.
+- TRANSACTION MENU – To allocate funds and process related transactions;
+- BUDGET UTILITIES – To create or edit budgetary tables;
+- PRINT MENU – To monitor the funding activities;
+- FMS Document Inquiry/Error Process – To process FMS/IFCAP errors."
+bulletins,"Electronic mail messages that are automatically delivered by VistA MailMan under certain conditions. For example, a bulletin can be set up.
+Electronic mail messages that are automatically delivered by MailMan under certain conditions. For example, a bulletin can be set up to fire when database changes occur, such as adding a record to the file of users. Bulletins are fired by bulletin-type cross references."
+business rule,"Part of ASU, Business Rules authorize specific users or groups of users to perform specified actions on documents in particular statuses (e.g, an unsigned progress note may be edited by a provider who is also the expected signer of the note)."
+BVA,Board of Veterans Appeals
+C&P,Compensation & Pension
+CAC,"Clinical Applications Coordinator
+Clinical Applications Coordinator. The CAC is a person at a hospital or clinic assigned to coordinate the installation, maintenance and upgrading of CPRS and other VistA software programs for the end users."
+CAMEO,Center for Acquisition and Materiel Management Education Online
+callable entry point,An authorized programmer call that may be used in any VistA application package. The DBA maintains the list of DBIC-approved entry points.
+CALM,
+CAP codes,Numbers assigned to lab procedures by the College of American Pathology for compiling workload statistics.
+CAPRI,"Compensation & Pension Records Interchange (CAPRI).
+This Graphical User Interface (GUI) software is used to access veterans’ electronic medical records throughout the VA. The IMDQ uses CAPRI as a resource for reviewing patient demographic and clinical data."
+CAPS,Computerized Accounts Payable System
+care coordinators,"Care Coordinators are licensed health care professionals who help veteran patients self-manage their condition and in doing so guide and support them to ensure they receive the right care, in the right place, at the right time from the right person."
+CARES,Capital Asset Realignment for Enhanced Services
+CARP,Chapter 32 Accounts Receivable
+CAVC,Court of Appeals for Veterans Claims
+CBOC,Community Based Outpatient Clinic
+"caret (""^"")","A symbol expressed as up caret (""^""), left caret (""<""), or right caret ("">""). In many M systems, a right caret is used as a system prompt and an up caret as an exiting tool from an option. Also known as the up-arrow symbol or shift–6 key."
+CARF,Commission on the Accreditation of Rehabilitative Facilities
+Care Management project,"The Care Management project was initiated because VA healthcare professionals needed an application that could display order and result information for a relevant panel of patients. The four applications (known as “perspectives”) that comprise Care Management—Clinician Dashboard, Nurse Dashboard, Sign List, and Query Tool—provide a complement to, rather than a replacement for, the single-patient view offered by the Computerized Patient Record System (CPRS)."
+CAT,Computer Access Training
+CSN,"Category Stock Number
+A number used to identify non-expendable types of equipment."
+CC,"Credit Charge
+entry identifier used by FMS and CCS for charges paid to Vendor thru Credit Card payment process."
+CCR,"Clinical Case Registries application
+CCR application supports the maintenance of local and national registries for clinical and resource tracking of care for patients with certain clinical conditions. At this time, Hepatitis C (CCR:HEPC) and Human Immunodeficiency Virus (CCR:HIV) registries are available. This application contains important demographic and clinical data on all VHA patients with these conditions, and provides many capabilities to VA facilities that provide care and treatment to patients with these conditions, including clinical categorization of patients and automatic transmission of data to the VA's National Case Registry. It also provides clinical and administrative reports for local medical center use. CCR accesses several other Veterans Health Information Systems and Technology Architecture (VistA) files that contain information regarding other diagnoses, prescriptions, surgical procedures, laboratory tests, radiology exams, patient demographics, hospital admissions, and clinical visits. This access allows identified clinical staff to take advantage of the wealth of data supported through VistA.
+The Clinical Case Registries (CCR) application collects data on the population of veterans with certain clinical conditions, namely hepatitis C and Human Immunodeficiency Virus (HIV) infection. This version of the CCR software has been significantly redesigned to provide access to the HIV Registry (CCR:HIV) and Hepatitis C Registry (CCR:HEPC) from a single interface. CCR has also been enhanced by automation of the data collection system and transformed from an administrative database into a clinically relevant tool for patient management.
+Data from the registries is used for both clinical and administrative reporting on both a local and national level. Each facility can produce local reports (information related to patients seen in their system). Reports from the national database are used to monitor clinical and administrative trends, including issues related to patient safety, quality of care, and disease evolution across the national population of patients. The registries at each facility will store selected HIV and Hepatitis C data from 1985 to the present CCR provides these key features:
+- Automates the development of a local list of patients with evidence of HIV or Hepatitis C infection.
+- Automatically transmits patient data from the local registry lists to a national database.
+- Provides robust reporting capabilities."
+CCSE,Centralized Code Sheet Elimination
+CCSHS,"VA Center for Cooperative Studies in Health Services located at Hines, Illinois."
+CCS,"The Credit Card System. This is the database in Austin that processes the credit card information from the external Credit Card Vendor system (currently CitiDirect), and then passes information on to FMS and IFCAP."
+CCOW,"Clinical Context Object Work Group
+The Clinical Context Object Workgroup (CCOW) standard provides a way for VistA applications to synchronize their clinical context based on the Clinical Context Object Workgroup standard. In simple terms, this means that if CCOW-compliant applications are sharing context and one of the applications changes to a different patient, the other applications will change to that patient as well. By default, the CCOW link is automatically active."
+CCOW Term Telnet,"An application (written in Delphi) which is Remote Procedure Call (RPC) Broker aware and capable of CCOW with CCOW, which can be used to access the Roll and Scroll environment, such as List Manager, in VistA."
+CCOW Timing Program,"A program, written in Delphi that tests the amount of time for Remote Procedure Calls to be processed by the server."
+CDMIS,"The Chemical Dependency Information System
+was designed to provide the IHS Alcohol and Substance Abuse programs a method of storing and retrieving relevant data for the management of their programs. There are three basic types of data stored in this system; patient demographic data such as age, sex, tribe, etc.; patient clinical data such as types of substances being abused, impact of abuse, other family and/or mental health problems, etc.; program data such as staff workload data, patient counts by component and other relevant breakdowns.
+Data is periodically extracted from the local system and electronically transmitted to an IHS Area level system where all CDMIS data for that Area is consolidated. This provides Area management the information needed to evaluate and manage their substance abuse programs. Information is also extracted from the Area system to respond to IHS Headquarters information requests."
+CD,Catastrophic Disability
+CDC,Center for Disease Control
+CEST,Claims Establishment
+CDR,"1. Clinical Data Repository
+2. Cost Distribution Report"
+CDS,Clinical Data Service
+CDT,Current Dental Terminology
+Ceiling Transactions,Funding distributed from Fiscal Service to IFCAP Control Points for spending. The Budget Analyst initiates these transactions using the Funds Distribution options.
+CFD,Austin Corporate Franchise Datacenter
+CHI,"Consolidated Health Informatics
+CHI is a collaborative effort to adopt health information interoperability standards, particularly health vocabulary and messaging standards, for implementation in Federal Government Systems. About 20 departments and agencies, including the DoD, HHS, and VHA, are active in the CHI governance process. The CHI initiative is one of the Office of Management and Budget’s (OMB) eGov initiatives."
+CHCS II,"Composite Health Care System II
+Used in DoD facilities"
+CHDR,"Clinical Data Repository/Health Data Repository
+Interoperability Project"
+CHISS,Common Health Information Security Services
+CICSP,Continuous Improvement in Cardiac Surgery Program.
+CIO,Chief Information Officer
+CIP,Critical Infrastructure Protection
+CIRC,Critical Incident Response Center
+CIRT,Critical Incident Response Team
+CLA,"Clinical Logistics Analyst
+Logistics refers to how resources are acquired, transported and stored along the supply chain. By having an efficient supply chain and proper logistical procedures, an organization can cut costs and increase efficiency. Clinical logistics refers specifically to resources used for clinical purposes. A CLA is a person who examines processes, methods and data for clinical logistics operations."
+claim letter,This is a cover letter to a VARO when filing a claim on behalf of a VIST veteran. This letter is used to print for individual veterans.
+clean claim,"An insurance claim that has no defect, impropriety (including any lack of any substantial documentation) or particular circumstance requiring special treatment that prevents timely payment from being made."
+clinician,A doctor or other provider in the medical center who is authorized to provide patient care.
+Clinical Monitoring System,"The heart of the Clinical Monitoring System package is in building monitors using conditions and groups for patient auto enrollment.
+The main function of this software is to capture data for patients meeting specified conditions. All monitors within the framework of this software are ultimately based upon patient related data. In order to capture data, you create monitors that run nightly. These nightly runs ""auto enroll"" (or capture) the patients defined by the monitors.
+This system looks at what happened yesterday in VISTA. It can capture such items as ward, treating specialty, SSN, age, etc. For a more extensive list of items, use the Data Element File Inquire option within the Outputs Menu of the Monitoring System Manager Menu. Data elements available for capture vary depending on the conditions you select when building monitors.
+Conditions are provided with the Clinical Monitoring System package. Examples of conditions include ON WARD, READMISSION, MAS MOVEMENT TYPE, PREVIOUS DISCHARGE, etc. You may use the Condition File Inquire option to obtain information on selected/all conditions. The information provided will describe the condition; tell you what questions will be asked when using a condition; tell you when you must define a group for the condition, and list the other data that is available for capture."
+Clinical Reminder,"The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated.
+Reminders assist clinical decision-making and also improve documentation and follow-up, by allowing providers to easily view when certain tests or evaluations were performed and to track and document when care has been delivered. They can direct providers to perform certain tests or other evaluations that will enhance the quality of care for specific conditions. The clinicians can then respond to the reminders by placing relevant orders or recording clinical activities on patients’ progress notes.
+Clinical Reminders may be used for both clinical and administrative purposes. However, the primary goal is to provide relevant information to providers at the point of care, for improving care for veterans. The package benefits clinicians by providing pertinent data for clinical decision-making, reducing duplicate documenting activities, assisting in targeting patients with particular diagnoses and procedures or site-defined criteria, and assisting in compliance with VHA performance measures and with Health Promotion and Disease Prevention guidelines."
+CLO,"The Chief Logistics Office
+develops and fosters logistics best practices for the VHA. Through the VHA Acquisition Board the CLO develops the annual VHA Acquisition plan that forms the basis for VHA’s acquisition strategy. This strategy seeks to procure high quality health care products and services in the most cost effective manner. This includes the attainment of socioeconomic procurement goals. The CLO also develops and implements a comprehensive plan for the standardization of healthcare supplies and equipment. This includes the development and administration of clinical product user groups. The CLO is also responsible for developing improvements to supply chain management within VHA. This includes the establishment and monitoring of logistics benchmarking data. The CLO serves as liaison for logistics staff in each of the 21 VISNs. The head of CLO is the Chief Prosthetics and Clinical Logistics Officer (CPCLO)."
+CLRS,"Clinical Logistics Report Server
+The CLRS project allows the extraction of selected procurement and inventory data from VHA facilities to a centralized Clinical Logistics Report Server. The server supports the collection, tracking, and reporting of National Performance Measures, assisting the Under Secretary for Health (USH) in evaluating facility performance in the areas of consolidation of high tech equipment, standardization, socioeconomic goal accomplishment, acquisition, and inventory management."
+CMOP,Consolidated Mail Outpatient Pharmacy
+CMOR,Coordinating Master of Record
+CMS,"Centers for Medicare & Medicaid Services
+formerly Health Care Financing Administration (HCFA). The administration within the Department HHS that is responsible for the national administration of the Medicaid and Medicare programs."
+COB,"Coordination of Benefits
+A provision that is intended to avoid claims payment delays and duplication of benefits when a person is covered by two or more plans providing benefits or services for medical, dental or other care or treatment."
+code sheets,are used to create data in a format that other computer systems can use.
+collateral visit,A visit by a non-veteran patient whose appointment is related to or associated with a service-connected patient's treatment.
+CONGRESS,Subject Headings
+Capacity Management Tools (KMPR),"software is intended for use by Information Resource Management (IRM) staff responsible for the capacity planning functions at their site. The CM Tools software allows a site to collect VistA HL7 workload information.
+The CM Tools software is strongly dependent on the site to schedule and run the background task on a regular basis. Menus and options are provided locally at the site to allow IRM staff to accomplish and monitor this task.
+The background task obtains VistA HL7 information from the site and automatically transfers this data via network mail (i.e., VistA MailMan) to the Capacity Planning National Database.
+The Veterans Health Administration (VHA) developed the CM Tools software in order to obtain more accurate information regarding the current and future system and VistA HL7 workload at VA sites (e.g., VA Medical Centers [VAMCs]).
+Installing the CM Tools software creates the collection process mechanism and other necessary components of the software. The fully automated data collection mechanism entails capturing the following data:
+- VistA HL7 workload specifics at the site—This data is gathered into a temporary ^TMP(""KMPDH"",$J) collection global.
+- Timing data at the site—This data is gathered into the temporary ^KMPTMP(""KMPDT"") collection global. The collection mechanism is continuously monitoring each process on the system while trapping system timing and VistA HL7 workload data."
+capacity planning,The process of assessing a system's capacity and evaluating its efficiency relative to workload in an attempt to optimize system performance. (Formerly known as Capacity Management.)
+CFR,"Code of Federal Regulations
+is the codification of the general and permanent rules published in the Federal Register by the executive departments and agencies of the Federal Government. It is divided into 50 titles that represent broad areas subject to Federal regulation. Each volume of the CFR is updated once each calendar year and is issued on a quarterly basis.
+Title 45 Public Welfare [Lnk]"
+CFT,Certified Funds Transfer
+CHAMPVA,Civilian Health and Medical Program of the Dept. of Veterans Affairs
+common menu,"These are the options that are available to all users. Entering two question marks at the menus select prompt displays any secondary menu options available to the signed-on user, along with the common options available to all users."
+Common Numbering Series,"This is a pre-set series of Procurement and Accounting Transaction (PAT) numbers used by Purchasing and Contracting, Personal Property Management, Accounting Technicians and Imprest Funds Clerks to generate new Purchase Orders/Requisitions/Accounting Transactions on IFCAP. The Application Coordinators establish the Common Numbering Series used by each facility."
+Concurrent Case,"A patient undergoing two operations by different surgical specialties at the same time, or back to back, in the same operating room."
+consistency checker,Provides a method of assuring the accuracy of data contained in a patient file.
+consult,"Referral of a patient by the primary care physician to another hospital service/ specialty, to obtain a medical opinion based on patient evaluation and completion of any procedures, modalities, or treatments the consulting specialist deems necessary to render a medical opinion."
+context vault,Data store that houses user sign-on credentials in a CCOW user context.
+control point,"Financial element, existing ONLY in IFCAP, which corresponds to a set of elements in FMS that include the Account Classification Code (ACC) and define the Sub-Allowance on the FMS system. Used to permit the tracking of monies to a specified service, activity or purpose from an Appropriation or Fund.
+Control Point Clerk - The user within the service who is designated to input requests (2237s) and maintain the Control Point records for a Service.
+Budget analysts create budgets for Control Points and make funds from these budgets available for spending. Some funds are earmarked for certain kinds of spending, and budgets are often made available by funding the Control Point on a fixed schedule. To allow Budget Analysts to control the ""when"" and ""how"" of Control Point spending. Creating a Control Point budget is a separate activity from releasing the funds to a Control Point for spending.
+justification"
+Controlled Subscription Integration Agreement,"This applies where the IA describes attributes/functions that must be controlled in their use. The decision to restrict the IA is based on the maturity of the custodian package. Typically, these IAs are created by the requesting package based on their independent examination of the custodian package’s features. For the IA to be approved, the custodian grants permission to other VistA packages to use the attributes/functions of the IA; permission is granted on a one-by-one basis where each is based on a solicitation by the requesting package. An example is the extension of permission to allow a package (e.g., Spinal Cord Dysfunction) to define and update a component that is supported within the Health Summary package file structures."
+"copayment, copay",A fixed fee that subscribers to a medical plan must pay for their use of specific medical services covered by the plan.
+copay test,A financial report used to determine if a patient may be exempted from pharmacy copayments.
+Cost Center,are unique numbers which define a service. One cost center must be attached to every Fund Control Point. This enables costs to be captured by service. Cost centers are listed in VA Handbook 4671.1.
+COSTART,"Coding Symbols Thesaurus for Adverse Reaction Terms
+was developed by FDA for the coding, filing and retrieving of post-marketing adverse reaction reports. COSTART provides a method to deal with the variation in vocabulary used by those who submit adverse event reports to the FDA. Use of this dictionary allowed for standardization of adverse reaction reporting towards the FDA in a consistent way.Recently COSTART was replaced by the MedDRA.
+medical standards"
+COTS,"Commercial Off The Shelf.
+Describes software or hardware products that are ready-made and available for sale to the general public. COTS include VA applications that are not part of the VistA system."
+Covered Entity,"Under HIPAA, a health plan, healthcare clearinghouse or health care provider who transmits information in electronic form in connection with a transaction covered by this subchapter 160.103 of 45 CFR."
+C&P,Compensation and Pension
+CP,"Clinical Procedures is a VistA package that provides features that can be used across clinical departments, such as general medicine, cardiology, pulmonary, women’s health, neurology, and rehabilitation medicine. CP is a conduit for passing patient results, using HL7 messaging, between the vendor and VistA. Patient test results are displayed in the CPRS. CP includes three modules, which are CP User, CP Manager, and CP Gateway."
+CPRS,"Clinical Patient Record System provides a computer-based patient record and organizes and presents all relevant data on a patient in a way that directly supports clinical decision-making. CPRS integrates the extensive set of clinical and administrative applications available within VistA.
+CPRS is an umbrella program that integrates numerous existing programs for the clinical user.
+Лигурия. Электронная история болезни"
+CPRS/CCR,Computerized Patient Record System/Computerized Clinical Reminder Module
+CPRS/VSM,Computerized Patient Record System/Vital Signs Module
+COSTAR,"Computer Stored Ambulatory Records Term File
+medical standards"
+CPT,"Current Procedural Terminology
+codes are used for reporting medical services and procedures performed by physicians. Their purpose is to provide a uniform language that will accurately describe medical, surgical, and diagnostic services, thereby providing an effective means for reliable nationwide communication among physicians, patients, and third parties. This system of terminology is the most widely accepted nomenclature for the reporting of physician procedures and services under government and private health insurance programs.
+HCPCS"
+CR,Computed Radiography
+cross reference,"There are several types of cross-references available. Most generally, a VA FileMan cross-reference specifies that some action be performed when the field's value is entered, changed, or deleted. For several types of cross-references, the action consists of putting the value into a list; an index used when looking-up an entry or when sorting. The regular cross-reference is used for sorting and for lookup; you can limit it to sorting only."
+CS,"Controlled Substances
+PSD - EVE menu"
+CSE,Code Sheet Elimination
+CSV,"Code Set Versioning package
+This package is mandated under the Health Information Portability and Accountability Act (HIPAA). It contains routines, globals and data dictionary changes to recognize code sets for the International Classification of Diseases, Clinical Modification (ICD-9-CM), Current Procedural Terminology (CPT) and Health Care Financing Administration (HCFA) Common Procedure Coding System (HCPCS). When implemented, certain applications will allow users of these three code systems to select codes based upon a date that an event occurred with the Standards Development Organization (SDO)-established specific code that existed on that event date."
+CT,computed tomography
+CWAD,"Cautions, Warnings, Adverse Reactions, Directives
+A type of Progress Note.
+Crises, Warnings, Allergies/Adverse Reactions, and Directives. These are displayed on the Cover Sheet of a patient’s computerized record, and can be edited, displayed in greater detail, or added to. See Patient Postings."
+DA (PSA),Drug Accountability/Inventory Interface
+DaIS,Development and Infrastructure Support
+data,"A representation of facts, concepts, or instructions in a formalized manner for communication, interpretation, or processing by humans or by automatic means. The information you enter for the computer to store and retrieve. Characters stored in the computer system, which are the values of local or global variables. VA FileMan fields hold data values for file entries."
+data standardization,"Data Standardization is the foundation for data sharing. Standardization ensures that data can be shared across systems and that it will retain the same meaning in each system. Standardization will enable the exchange of clinically-relevant health data between the VA and its health partners, and other federal entities such as the Department of Defense (DoD), Health & Human Services (HHS), and the Indian Health Service (IHS). Standardization will also support development of an integrated, longitudinal patient record that will give providers access to the veteran’s complete health record. The result will be a safer, higher-quality and more cost-effective provision of care for veterans across all federal facilities. Standardization of data will also assist with DoD interoperability efforts by supporting a seamless transition of care for individuals moving from active-duty to veteran status.
+As a result of a Congressional Mandate requiring a consolidated database of all veteran patient results, the VHA Office of Information and DoD were tasked with implementing a method to communicate entire patient records between the respective agencies. To accomplish this, VHA and DoD will use the standard recommended by Consolidated Health Informatics (CHI) for Clinical Document names — Logical Observation Identifier Names and Codes (LOINC®).
+CHI is a collaborative effort to adopt health information interoperability standards, particularly health vocabulary and messaging standards, for implementation in Federal Government Systems. About 20 departments and agencies, including the DoD, HHS, and VHA, are active in the CHI governance process. The CHI initiative is one of the Office of Management and Budget’s (OMB) eGov initiatives."
+DD,"Data Dictionary
+The Data Dictionary is a global containing a description of the kind of data that is stored in the global corresponding to a particular file. VA FileMan uses the data internally for interpreting and processing files. It contains the definitions of a file’s elements (fields or data attributes), relationships to other files, and structure or design. Users generally review the definitions of a file's elements or data attributes; programmers review the definitions of a file's internal structure."
+DD access,"Data Dictionary Access
+A user’s authorization to write/update/edit the data definition for a computer file."
+database,"A set of data, consisting of at least one file, that is sufficient for a given purpose. The VistA database is composed of a number of VA FileMan files. A collection of data about a specific subject, such as the PATIENT file (#2); a data collection has different data fields (e.g. patient name, SSN, Date of Birth, and so on). An organized collection of data about a particular topic."
+DBA,"Database Administrator, oversees software development with respect to VistA Standards and Conventions (SAC) such as namespacing. In addition, this term refers to the Database Administration function and staff."
+DBIA,"Database Integration Agreement, see Integration Agreements."
+DSM-IIIR,"Diagnostic & Statistical Manual of Mental Disorders
+medical standards"
+DDC,Denver Distribution Center
+DEERS,Defense Enrollment Eligibility Reporting System
+default,"Response the computer considers the most probable answer to the prompt being given. It is identified by double slash marks (//) immediately following it. This allows you the option of accepting the default answer or entering your own answer. To accept the default you simply press the Enter (or Return) key. To change the default answer, type in your response."
+delimiter,"Special character used to separate a field, record, or string. VA FileMan uses the caret character (""^"") as the delimiter within strings."
+demographic data,"Identifying descriptive data about a patient, such as: name, sex, date of birth, marital status, religious preference, SSN, address, etc."
+DENT,Dental
+Department of Veterans Affairs,"The Department of Veterans Affairs, formerly called the Veterans Administration (VA)."
+deploying,The process of pushing terminology and content from the development to the production environment.
+DFN,Data File Number
+DHCP,"Dynamic Host Configuration Protocol (current meaning)
+Decentralized Health Care Program (obsolete meaning) Now known as Veterans Health Information Systems and Technology Architecture (VistA). VistA replaces DHCP."
+DI,FileMan
+Diagram Annotation tool,"The Diagram Annotation tool is an optional Imaging component that is accessed from CPRS. The Diagram Annotation tool is used to annotate online diagram ‘templates’ and then save the results directly to a patient’s electronic medical record. Newly annotated diagrams are typically available for display in less than a minute.
+Using the Diagram Annotation tool can reduce or replace, where appropriate, the clinical use of paper-based diagrams. Instead, diagrams are created online, with all users drawing from a shared diagram collection. Using the Diagram Annotation tool also reduces the workload of Clinical Capture users and the costs associated with paper-based records storage and management."
+direct connect,"The Direct Connect is a real-time TCP/IP connection to the MPI to allow for an immediate request for an ICN. Direct Connect is activated when using any of the following PIMS options: 1. Register A Patient,
+2. Load/Edit Patient Data,
+3. Electronic 10-10EZ Processing,
+and when using the:
+1. Display Only Query"
+Direct Delivery Patient,A patient who has been designated to have goods delivered directly to him/her from the vendor.
+Direct Mode Utility,"A programmer call that is made when working in direct programmer mode. A direct mode utility is entered at the MUMPS prompt (e.g., >D ^XUP). Calls that are documented as direct mode utilities cannot be used in application software code."
+DISA,Defense Information System Agency
+Discharge Summary,"Discharge summaries are summaries of a patient’s medical care during a single hospitalization, including the pertinent diagnostic and therapeutic tests and procedures as well as the conclusions generated by those tests. They are required for all discharges and transfers from a VA medical center, domiciliary, or nursing home care. The automated Discharge Summary module of TIU provides an efficient and immediate mechanism for clinicians to capture transcribed patient discharge summaries online, where they’re available for review, signing, adding addendum, etc."
+division,The subunit under institute has 5-6 digits/letter division ID and less than a 35 character name
+document class,"Document Classes are categories that group documents (Titles) with similar characteristics together. For example, Nursing Progress Notes might be a Document Class, with Nursing Dialysis Progress Notes, Nursing psychology Progress Notes, etc. as Titles under it. Or maybe the Document Class would be Psychology Notes, with Psychology Nursing Notes, Psychology Social Worker Notes, Psychology Patient Education Notes, etc. under that Document Class."
+document definition,"is a subset of TIU that provides the building blocks for TIU, by organizing the elements of documents into a hierarchy structure. This structure allows documents (Titles) to inherit characteristics (such as signature requirements and print characteristics) of the higher levels, Class and Document Class. It also allows the creation and use of boilerplate text and embedded objects."
+DoD,"Department Of Defense
+DoDFAC"
+DoDFAC,"Department of Defense functional activity codes
+DoDFACs are grouped into eleven categories:ADP (Automated data processing), Base maintenance, Depot repair, Education and training, Health services, Installation services, Intermediate maintenance, Other nonmanufacturing (logistics-related functions), R&D, RPM (Real property maintenance), Social services.
+medical standards"
+domain,"A subset of medicine, a natural grouping of clinical acts (e.g., demographics, vital signs, laboratory, pharmacy)"
+Dorland,Dorland's Medical Dictionary [Lnk]
+DRG,"Diagnostic Related Group
+A manageable, clinically coherent set of patient classes that relate a hospital case mix to the resource demands and associated costs experienced by the hospital."
+DRG Grouper (ICD),"The DRG Grouper is a ""black box"" utility with standalone functionality and can be called by other VISTA applications. The DRG Grouper package contains two options:
+- DRG Grouper - Used to compute and display the Diagnosis Related Group (DRG) for a patient based on that patient's diagnoses and any operations/procedures performed.
+- ICD Code Inquiry - Allows the user to display information for a selected diagnosis or operation/procedure code.
+The DRGs are defined as a manageable, clinically coherent set of patient classes that relate a hospital case mix to the resource demands and associated costs experienced by the hospital. There are 511 DRGs associated with the DRG Grouper. Each represents a class of patients deemed medically comparable and requiring similar amounts of resources for care."
+DSE (GT.M),"The GT.M Database Structure Editor, examines and repairs Greystone Technology Database Structure (GDS) database(s). GT.M uses Buffered Global (BG) and Mapped Memory (MM) access methods for GDS files."
+DSM,Diagnostic and Statistical Manual of Mental Disorders.
+DSO,Decision Support Office
+DSS,Decision Support System
+duplicate record merge: patient merge,"Patient Merge is a VistA application that provides an automated method to eliminate duplicate patient records within the VistA database (i.e., the VistA PATIENT file #2). It consists of three steps:
+- Search for potential duplicate records pairs
+- Review, verification, and approval of those pairs
+- Merge process"
+DUZ,Local variable holding the user number that identifies the signed-on user.
+DVBA (AMIE),Automated Med Info Exchange
+DX,Digital Radiography
+DXplain,"Diagnostic Prompting System
+is a decision support system which uses a set of clinical findings (signs, symptoms, laboratory data) to produce a ranked list of diagnoses which might explain (or be associated with) the clinical manifestations. DXplain can provide a description of over 2200 different diseases, emphasizing the signs and symptoms that occur in each disease, the etiology, the pathology, and the prognosis. Over 4900 different clinical manifestations (signs, symptoms, and laboratory examinations)."
+DXLS,Diagnosis responsible for the major portion of a patient's stay.
+E3R,Electronic Error and Enhancement Reporting
+EC,Event Capture
+ECME,"Electronic Claims Management Engine
+ECME generates electronic claims in National Council for Prescription Drug Programs (NCPDP) V. 5.1 format, based on the Outpatient Pharmacy V. 7.0 workflow. ECME:
+- allows pharmacy users to submit, resubmit, and reverse electronic claims;
+- provides reports for end users and management on claims status, transaction history, and system configuration standings;
+- allows Automated Data Processing Application Coordinator (ADPAC) and Information Resources Management Service (IRMS) staff to configure ECME to pharmacy site specifications."
+EDI,"Electronic Data Interchange
+Electronic communication between two parties, generally for the filing of electronic claims to payers."
+eligibility codes,Codes representing the basis of a patient’s eligibility for care.
+EMPI,Enterprise Master Patient Index
+encounter,"A contact between a patient and a provider who has the primary responsibility of assessing and treating the patient. A patient may have multiple encounters per visit. Outpatient encounters include scheduled appointments and walk-in unscheduled visits. A clinician’s telephone communications with a patient may be represented by a separate visit entry. If the patient is seen in an outpatient clinic while an inpatient, this is treated as a separate encounter.
+provider
+visit"
+encounter form,"The encounter form is a paper form designed specifically for outpatient visits. It is used both to display relevant patient data for use during the visit, such as demographics, allergies, and problems; and to collect data about the visit, such as procedures and tests performed. Its primary focus is clinical and to collect data for the Ambulatory Care Reporting Project. It also has other purposes such as collecting data necessary for billing."
+EN,Engineering package См. AEMS/MERS
+entry,"VA FileMan record. An internal entry number (IEN), the .001 field) uniquely identifies an entry in a file."
+Episode of Care,"An interval of care by a health care facility or provider for a specific medical problem or condition. It may be continuous or it may consist of a series of intervals marked by one or more brief separations from care, and can also identify the sequence of care (e.g., emergency, inpatient, outpatient), thus serving as one measure of health care provided.
+Many encounters for the same problem can constitute an episode of care. An outpatient episode of care may be a single encounter or can encompass multiple encounters over a long period of time. The definition of an episode of care may be interpreted differently by different professional services even for the same problem. Therefore, the duration of an episode of care is dependent on the viewpoints of individuals delivering or reviewing the care provided."
+Equipment Management,A section/division of A&MM Service or similar activity responsible for screening all equipment requests. They are accountable for all equipment (CMRs) at the facilities they support.
+error trap,"A mechanism to capture system errors and record facts about the computing context such as the local symbol table, last global reference, and routine in use. Operating systems provide tools such as the %ER utility. The Kernel provides a generic error trapping mechanism with use of the ^%ZTER global and ^XTER* routines. Errors can be trapped and, when possible, the user is returned to the menu system."
+ERT,Enterprise Reference Terminology
+ESig,Electronic Signature
+ETS (also VETS),Enterprise Terminology Services
+EVC,Enrollment VistA Changes
+EVE,Mother of all menus.
+Event Capture,"Software designed to provide management tools necessary in tracking procedures not entered in other VistA packages. The procedures and services tracked through Event Capture are associated with the following:
+- The patient to whom they were delivered
+- The provider requesting the service or procedure
+- The DSS Unit responsible for delivering the service (DSS Units typically represent the smallest identifiable work unit in a clinical service at a medical center and are defined by the VAMCs.)"
+EWS,Enterprise Wide Scheduling
+exception message,MPI/PD VistA generates messages and bulletins to alert the user to problems that occur in generating or processing HL7 messages. The MPI/PD Message Exception Menu contains options to manage the problems.
+extractor,"A specialized routine designed to scan data files and copy or summarize data for use by another process.
+extract process"
+extract process,"This process is run after the update process. This function goes through patients on the local registry and, depending on their status, extracts all available data for the patient since the last extract was run. This process also updates any demographic data held in the local registry for all existing patients that have changed since the last extract. The extract transmits any collected data for the patient to the national database via HL7."
+facility,Geographic location at which VA business is performed.
+FB,Fee Basis
+FCP,Fund Control Point
+FDA,"Food and Drug Administration
+FDA is an agency within the HHS and consists of nine centers/offices.
+Center for Biologics Evaluation and Research (CBER)
+Center for Devices and Radiological Health (CDRH)
+Center for Drug Evaluation and Research (CDER)
+Center for Food Safety and Applied Nutrition (CFSAN)
+Center for Veterinary Medicine (CVM)
+National Center for Toxicological Research (NCTR)
+Office of Chief Counsel
+Office of the Commissioner (OC)
+Office of Regulatory Affairs (ORA)"
+FFP,Fugitive Felon Program
+FH,Dietetics
+FHIE,Federal Health Information Exchange
+field,"In a record, a specified area used for the value of a data attribute. The data specifications of each VA FileMan field are documented in the file's data dictionary. A field is similar to blanks on forms. It is preceded by words that tell you what information goes in that particular field. The blank, marked by the cursor on your terminal screen, is where you enter the information."
+FileMan,"File Manager
+VistA's Database Management System (DBMS). The central component of Kernel that defines the way standard VistA files are structured and manipulated.
+DI name menu in EVE.
+FileMan was initially developed in the late 1970s and has provided platform-independent database services ever since. FileMan's end-user interface allows easy access to medical center data via prestored or ad hoc queries. Programmer services include file creation and management, data archiving and transport tools, and import_/ export utilities. Client server access was added via the Database Server API and FileMan Delphi (Borland Pascal) components (used in VHA graphical user interface (GUI) applications). FileMan also supports an SQL interface.
+A set of MUMPS routines used to enter, maintain, access and manipulate related data in a file. It is the basic system used by all VA applications in creating all the files.
+MailMan"
+FIM,Functional Independence Measurement
+Fiscal Balance,The amount of money on a 1358 and any adjustments to that 1358 that have been obligated by Fiscal Service. This amount is reduced by any liquidation submitted against the obligation.
+Fiscal Year,Twelve-month period from October 1 to September 30.
+Flat File,This term usually refers to a file that consists of a series of fixed-length records that include some sort of record type code.
+FMDC,FileMan Delphi Components
+FMS,"Financial Management System
+System that replaced CALM.
+The primary accounting system for administrative appropriations. FMS has a comprehensive database that provides for flexible on-line and/or batch processing, ad-hoc reporting, interactive query capability and extensive security. FMS is concerned with budget execution, general ledger, funds control, accounts receivable, accounts payable and cost accounting."
+FOIA,Freedom of Information Act
+forced queuing,"Device attribute indicating that the device can only accept queued tasks. If a job is sent for foreground processing, the device rejects it and prompts the user to queue the task instead."
+FORUM,"1. The central E-mail system within the VA. FORUM is used to communicate at a national level. For example, VistA developers use FORUM to discuss programming and other issues. FORUM is located at the OI Field Office—Washington, DC (162-2).
+2. The FORUM module of the Library package serves several major needs.
+- Maintain basic serial information
+- Allow for interlibrary loan of materials
+- Maintain listing of networked audiovisuals
+First, the programs on FORUM allow the National Librarians to input and maintain consistent information on serials. Serial titles are entered specifying certain pertinent information about the serial such as title, frequency of issue, etc. Once the serial has been entered into the Library module on FORUM, the local medical center libraries have the capability of obtaining that information by requesting information about serial titles to be transmitted to their local files for utilization.
+The second feature of the Library on FORUM is the ability to request interlibrary loan of materials from one local medical center to another. Holdings for each library station are maintained on FORUM for this purpose and for updating the National Library of Medicine's SERHOLD data for their interlibrary loan module, DOCLINE."
+FPDS,Federal Procurement Data System.
+free text,"A data type that can contain any printable characters.
+A type of data field whose permissible values are any combination of numbers, letters, and symbols."
+front door,"System access via the Delphi, Graphical User Interface (GUI) based VistA application."
+FSOD,Functional Status Outcomes Database
+Funds Control,A group of Control Point options that allow the Control Point Clerk and/or Official to maintain and reconcile their funds.
+GAL,Global Address List.
+GCS,Generic Code Sheet
+Generic Code Sheet,"is a Decentralized Hospital Computer Program (DHCP) software module which manages the input, editing, deletion, and transmission of code sheets from a local hospital computer system to a centralized computer system as defined by the code sheet.
+The Generic Code Sheet package contains a code sheet file, GENERIC CODE SHEET (#2100), to be used to define field definitions to support the code sheets. The field definitions describe the type of data to be stored in the actual code sheet. The fields can be arranged in an input template in the order they will be used to create the code sheet. Once the code sheet data has been created, the code sheets can be marked for batching. Batching the code sheets will group like code sheets together for transmission. When the code sheets are transmitted, all code sheets within the batch will be transmitted in the same VA MailMan message. The exception to this is the Financial Management System (FMS) code sheets. When the FMS code sheets are created they are queued for transmission using the GENERIC CODE SHEET STACK file (#2100.1), thus bypassing the batching process. The code sheets are transmitted from the stack file by a background VA TaskManager job which can be run every 2 hours, 3 hours, etc. as specified by the systems manager."
+GDE (GT.M),"The GT.M Global Directory Editor, GDE, is a tool for creating, examining, and modifying Global Directories (GDs). A Global Directory is a file that identifies:
+- What global variables go to what database files
+- The size limits for names and values of global variables
+- Other database characteristics
+- If and what type of journaling should take place
+The main functions of the Global Directory Editor are to:
+- Define the mapping of global variables to database files - Define the character limitations of global variable names and records
+- Provide the MUMPS Peripheral Interchange Program (MUPIP) with characteristics (e.g., -ALLOCATION size) used in creating and extending a database file
+- Define whether a database file should be journaled and how
+- Define the -ACCESS_METHOD used to access the database files and other database characteristics [GDE.hlp]"
+GIP,Generic Inventory Package
+G&L,Gains and Losses
+GL,General Ledger
+global variable,Variable that is stored on disk (M usage).
+GMRA,"Adverse Reaction Tracking, ART"
+GMRC,Consult/Request Tracking
+GMRD,Discharge Summary
+group health plan,"(also see definition of health plan) means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income and Security Act of 1974 (ERISA), 29 U.S.C. 1002(1)), including insured and self-insured plans, to the extent that the plan provides medical care (as defined in section 2791(a)(2) of the Public Health Service Act (PHS Act), 42 U.S.C. 300gg–91(a)(2)), including items and services paid for as medical care, to employees or their dependents directly or through insurance, reimbursement, or otherwise, that:
+(1) Has 50 or more participants (as defined in section 3(7) of ERISA, 29 U.S.C. 1002(7)); or
+(2) Is administered by an entity other than the employer that established and maintains the plan. HHS stands for the Department of Health and Human Services."
+GT.M,"Greystone Technology MUMPS. GT.M is an implementation of M from Fidelity National Information Services, Inc. GT.M is the enterprise scale transaction processing database application development platform. As a database engine: It supports full Atomic, Consistent, Isolated and Durable (ACID) transactions. It is substantially faster for transaction processing than traditional relational databases. GT.M has been in production since 1986. GT.M[tm] is a vetted, industrial strength, transaction processing application platform consisting of a database engine optimized for high TP throughput and a compiler for the M (aka MUMPS) programming language. GT.M is open-souce freeware on x86/Linux."
+HBPC,"1. Hospital Based Patient Care
+2. Home Based Primary Care"
+HCFA,"Health Care Financing Administration
+HCFA has historically maintained the UB-92 institutional Electronic Media Claims (EMC) format specifications, the professional EMC National Standard Format (NSF) specifications, as well as specifications for various certifications and authorizations used by the Medicare and Medicaid programs. HCFA also maintains the HCPCS medical code set."
+HCPCS,"HCFA Common Procedure Coding System
+A medical code set that identifies health care procedures, equipment, and supplies for claim submission purposes. It is maintained by Health Care Financing Administration (HCFA), and has been selected for use in the HIPAA transactions. HCPCS Level I contain numeric CPT-4 codes, which are maintained by the AMA. HCPCS Level II contains alphanumeric codes used to identify various items and services that are not included in the CPT-4 code set. These are maintained by HCFA, BCBSA, and Health Insurance Association of America (HIAA). HCPCS Level III contains alphanumeric codes that are assigned by Medicaid State agencies to identify additional items and services not included in levels I and II. These are usually called ""local codes,"" and must have ""W"", ""X"", ""Y"", or ""Z"" in the first position. They are not named as HIPAA standard codes. HCPCS Procedure Modifier Codes can be used with all three levels, with the WA-ZY range used for locally assigned procedure modifiers.
+medical standards"
+HDI,"Health Data & Informatics
+The Health Data Informatics (HDI) package provides a basic method for seeding VHA Unique Identifiers (VUIDs) for reference data in existing VistA applications. A VUID is a meaningless number, which is automatically assigned to concepts, properties, and relationships in a terminology to facilitate their access and manipulation by computers.
+The HDI package will be used by each VistA site to seed VUIDs in their existing global files that contain reference data, such as drug names, names of known allergens, and so forth. These files have been grouped into domains, and each domain will be standardized separately. As each domain’s files are originally standardized, the HDI package is used to assign a VUID to each term or concept in the file. Subsequent standardization updates and maintenance on these files will be handled separately by the New Term Rapid Turnaround (NTRT) program."
+HDR,"Health Data Repository
+is the cornerstone of the Health Data Systems (HDS) portfolio. The HDR will serve as an operational clinical repository—a collection of clinical information, from VA and non-VA sources, residing on one or more independent platforms—to be used by clinicians and other personnel to facilitate longitudinal, patient-centric care. Data in the HDR will be organized in a format supporting the delivery of care regardless of the physical location of a patient’s clinical information. The HDR will provide additional significant benefits including providing information to support research and population analyses, facilitating patient access to data and sharing information across VHA, improving data quality and data security, and reducing the burden on local VistA systems."
+HDR-Hx,HDR - Historical
+HDR IMS,Health Data Repository – Interim Messaging Solution
+HealtheVet-VistA,"The HealtheVet-VistA architecture will be a services-based architecture. Applications will be constructed in tiers with distinct user interface, middle and data tiers. Two types of services will exist, core services (infrastructure and data) and application services (a single logical authoritative source of data)."
+health care,"means care, services, or supplies related to the health of an individual. Health care includes, but is not limited to, the following:
+(1) Preventive, diagnostic, therapeutic, rehabilitative, maintenance, or palliative care, and counseling, service, assessment, or procedure with respect to the physical or mental condition, or functional status, of an individual or that affects the structure or function of the body; and
+(2) Sale or dispensing of a drug, device, equipment, or other item in accordance with a prescription."
+Health Care Clearinghouse,"Under HIPAA, this is ""… a public or private entity that does either of the following: (1) processes or facilitates the processing of information received from another entity in a nonstandard format or containing nonstandard data content into standard data elements or a standard transaction, or (2) receives a standard transaction from another entity and processes or facilitates the processing of [that] information into nonstandard format or nonstandard data content for a receiving entity."" [45 CFR 160.103]"
+Health Information,"Under HIPAA this is ""… any information, whether oral or recorded in any form or medium that (a) is created or received by a health care provider, health plan, public health authority, employer, life insurer, school or university, or health care clearinghouse; and (b) related to the past, present or future physical or mental health or condition of an individual, the provision of health care to an individual, or the past, present or future payment for the provision of health care to an individual."" [45 CFR 160.103]"
+health insurance issuer,"(as defined in section 2791(b)(2) of the PHS Act, 42 U.S.C. 300gg–91(b)(2) and used in the definition of health plan in this section) means an insurance company, insurance service, or insurance organization (including an HMO) that is licensed to engage in the business of insurance in a State and is subject to State law that regulates insurance. Such term does not include a group health plan."
+health plan,"an individual or group plan that provides, or pays the cost of, medical care (as defined in section 2791(a)(2) of the PHS Act, 42 U.S.C. 300gg–91(a)(2)).
+(1) Health plan includes the following, singly or in combination:
+(i) A group health plan, as defined in this section.
+(ii) A health insurance issuer, as defined in this section.
+(iii) An HMO, as defined in this section.
+(iv) Part A or Part B of the Medicare program under title XVIII of the Act.
+(v) The Medicaid program under title XIX of the Act, 42 U.S.C. 1396, et seq.
+(vi) An issuer of a Medicare supplemental policy (as defined in section 1882(g)(1) of the Act, 42 U.S.C. 1395ss(g)(1)).
+(vii) An issuer of a long-term care policy, excluding a nursing home fixed indemnity policy.
+(viii) An employee welfare benefit plan or any other arrangement that is established or maintained for the purpose of offering or providing health benefits to the employees of two or more employers.
+(ix) The health care program for active military personnel under title 10 of the United States Code. (x) The veterans health care program under 38 U.S.C. chapter 17.
+(xi) The Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) (as defined in 10 U.S.C. 1072(4)).
+(xii) The Indian Health Service program under the Indian Health Care Improvement Act, 25 U.S.C. 1601, et seq.
+(xiii) The Federal Employees Health Benefits Program under 5 U.S.C. 8902, et seq.
+(xiv) An approved State child health plan under title XXI of the Act, providing benefits for child health assistance that meet the requirements of section 2103 of the Act, 42 U.S.C. 1397, et seq.
+(xv) The Medicare+Choice program under Part C of title XVIII of the Act, 42 U.S.C. 1395w–21 through 1395w–28.
+(xvi) A high risk pool that is a mechanism established under State law to provide health insurance coverage or comparable coverage to eligible individuals.
+(xvii) Any other individual or group plan, or combination of individual or group plans, that provides or pays for the cost of medical care (as defined in section 2791(a)(2) of the PHS Act, 42 U.S.C. 300gg–91(a)(2)).
+(2) Health plan excludes:
+(i) Any policy, plan, or program to the extent that it provides, or pays for the cost of, excepted benefits that are listed in section 2791(c)(1) of the PHS Act, 42 U.S.C. 300gg–91(c)(1); and
+(ii) A government-funded program (other than one listed in paragraph (1)(i)–(xvi) of this definition):
+(A) Whose principal purpose is other than providing, or paying the cost of, health care; or
+(B) Whose principal activity is:
+(1) The direct provision of health care to persons; or
+(2) The making of grants to fund the direct provision of health care to persons."
+Health Summary,"is a clinically oriented, structured report that extracts many kinds of data from VISTA and displays it in a standard format. The individual patient is the focus of health summaries, but health summaries can also be printed or displayed for groups of patients."
+HEC,"Health Eligibility Center.
+Formerly known as the IVMCenter."
+HFS,Host File Server is a system (WinNT/Dec Alpha) file access mechanism that enables the M software (server software) to access the system-level files.
+HHS,Health & Human Services
+HHCC,"Home Health Care Component, Diagnosis/Interventions"
+HIMS,"Hospital (Health) Information Management System
+Common abbreviation/synonym used at VA site facilities; also known as MIS (see below)."
+HIMSS,Healthcare Information and Management Systems Society
+Hines,Hines Data Center
+HINQ,"Hospital Inquiry
+The HINQ module provides the capability to request and obtain veteran eligibility data via the VA national telecommunications network. Individual or group requests are sent from a local computer to a remote VBA computer where veteran information is stored. The VBA network that supports HINQ is composed of four computer systems located in regional VA payment centers.
+The main features of the HINQ package include the following functionality."
+HIAA,"Health Insurance Association of America
+An industry association that represents the interests of commercial health care insurers. The HIAA participates in the maintenance of some code sets, including HCPCS Level II codes."
+HIPAA,"Health Insurance Portability and Accountability Act of 1996. Also referred to as, HIPAA.
+A Federal law that makes a number of changes that have the goal of allowing persons to qualify immediately for comparable health insurance coverage when they change their employment relationships. Title II, Subtitle F, of HIPAA gives HHS the authority to mandate the use of standards for the electronic exchange of health care data; to specify what medical and administrative code sets should be used within those standards; to require the use of national identification systems for health care patients, providers, payers (or plans), and employers (or sponsors); and to specify the types of measures required to protect the security and privacy of personally identifiable health care information. Also known as the Kennedy-Kassebaum Bill, the Kassebaum-Kennedy Bill, K2, or Public Law 104-191."
+HIPAA DD,"HIPAA Data Dictionary
+defines and cross references the contents of all X12 transactions included in the HIPAA mandate. It is maintained by X12N/TG3."
+HIS,Hospital Information System
+HL7 (HL),"The DHCP Health Level Seven (HL7) software package provides an interface that allows DHCP applications to exchange healthcare data with other applications using the HL7 protocol.
+HL7 is a standard protocol which specifies the implementation of interfaces between two computer applications (sender and receiver) for electronic data exchange in healthcare environments. HL7 allows healthcare institutions to exchange key sets of data from different application systems.
+The HL7 protocol defines the content and format of abstract messages and trans-actions for interface capabilities for the following areas:
+- Admission, discharge, and transfer (ADT);
+- Order entry;
+- Query;
+- Financial applications such as charge, payment adjustments, and insurance;
+- Ancillary data reporting for Laboratory, Radiology, Pharmacy, etc.
+Messaging Workbench
+medical standards"
+HMO,"health maintenance organization
+(as defined in section 2791(b)(3) of the PHS Act, 42 U.S.C. 300gg–91(b)(3) and used in the definition of health plan in this section) means a federally qualified HMO, an organization recognized as an HMO under State law, or a similar organization regulated for solvency under State law in the same manner and to the same extent as such an HMO."
+HSD&D,"Health Systems Design & Development
+Formerly SD&D—System Design and Development
+IV&V"
+HSF,"hospital service file
+Records for defining the persons and/or locations within the medical center. Needs to include entries for sections or subsections, such as Nursing Education, SPD, wards, units, etc."
+HSITES,Health Systems Implementation Training and Enterprise Support
+HSM,Hospital-Supplied Self Medication
+HT,Home Telehealth
+Hui OpenVista,"In June 2003, Hui OpenVista, the open-source version of VistA, was released by the Pacific Telehealth & Technology Hui, a joint venture of the Department of Defense and Department of Veterans Affairs. Hui OpenVista is nonproprietary and license free. The Hui pioneered the development of Hui OpenVista to provide an affordable and robust EHR solution for healthcare facilities in remote, underserved areas. Hui OpenVista and VistA share the same features, functionality, scalability and reliability. There is no significant difference between the two except for their operating platforms. Hui OpenVista operates on an open-source database management system that runs on Linux, an open-source operating system; whereas, VistA operates on proprietary software that must be licensed."
+IA,"Integration Agreements
+define agreements between two or more VistA software applications to allow access to one development domain by another. VistA software developers are allowed to use internal entry points (APIs) or other software-specific features that are not available to the general programming public. Any software developed for use in the VistA environment is required to adhere to this standard; as such, it applies to vendor products developed within the boundaries of DBA assigned development domains (e.g., MUMPS AudioFax). An IA defines the attributes and functions that specify access. The DBA maintains and records all IAs in the Integration Agreement database on FORUM. Content can be viewed using the DBA menu or the Health Systems Design & Development's Web page."
+IB,"Integrated Billing
+A VISTA package responsible for identifying billable episodes of care, creating bills, and tracking the whole billing process through to the passing of charges to Accounts Receivable (AR). Includes the encounter form utility."
+IBD (AICS),Automated Information Collection System
+ICD,"1. International Classification of Diseases
+A medical code set maintained by the World Health Organization (WHO). The primary purpose of this code set is to classify causes of death. A United States (US) extension of this coding system, maintained by the National Center for Health Statistics (NCHS) within the Centers for Disease Control (CDC), is used to identify morbidity factors, or diagnoses. The ICD-9-CM (Revision 9 Clinical Modification) codes have been selected for use in the HIPAA transactions.
+ICD-10-CM - International Classification of Diseases, Diagnosis
+ICD-10-Proc - International Classification of Diseases, Procedures
+2. ICD package name DRG Grouper
+medical standards"
+ICN,"1. Identification Control Number.
+Patients are assigned a unique identifier, known as an Integration Control Number, within the process of being added to the MPI database. This number links patients to their records across VHA systems.
+2. Integration Control Number
+A unique identifier assigned to patients when they are added to the Master Patient Index. ICNs fall under two categories: national and local. The ICN follows the ASTM E1714-95 standard for a universal health identifier. ICNs link patients to their records across VA systems. The ICN is stored in a message using the HL7 CX format. The ID subfield is the ICN. The type subfield is USVHA."
+ICPT,CPT/HCPCS Codes
+ICR,Immunology Case Registry
+ID,Identifier
+IDCU,"Integrated Data Communications Utility
+A wide area network used by VA to interconnect computers for transmitting data between VA sites."
+IDL,Iterative Development Lifecycle
+IE,"Interface Engine
+A device or software application that connects disparate system, transforms data, converts data, routes data, ensures the delivery of data and is rules based. The IE provides a consistent HL7 compliant communication environment. That is separate from the specific and individual application needs. Within this environment messages can be routed, transformed, converted and delivery guaranteed as required by the application."
+IEN,"Internal Entry Number
+Used by FileMan, it is a unique number assigned to each entry in an M global.
+The number used to identify an entry within a file. Every record has a unique internal entry number."
+IFCAP,"Integrated Funds Distribution, Control Point Activity, Accounting and Procurement
+IFCAP package automates functions in Acquisition and Materiel Management (A&MM), Fiscal and for all VA Services that request supplies and services. The goal of IFCAP is to integrate these three areas and allow users to share procurement and financial information.
+IFCAP consists of several functional components, each responsible for a similar set of tasks:
+- FUNDS DISTRIBUTION allows Fiscal Service to establish Fund Control Points, and track funding for budget purposes.
+- CONTROL POINT ACTIVITY automates the preparation of requests, the electronic transmission of requests to A&MM and Fiscal services and the bookkeeping processes within a service.
+- PROCUREMENT allows A&MM to transfer IFCAP-generated requests onto purchase orders and requisitions, process receiving documents in the warehouse, and create and transmit code sheets to Austin.
+- ACCOUNTING automates the creation of code sheets, handles the processing of certified invoices, and facilitates the electronic transmission of code sheets and receiving documents to the Financial Management System (FMS) located in Austin, Texas. In addition, IFCAP transfers obligation information back to the Control Point and updates the Control Point balance automatically.
+- INVENTORY permits services to maintain their own on-line inventory and establish an average stock level, record the distribution of goods to secondary location(s), and automatically generate IFCAP requests for replenishment purposes. Secondary locations may maintain their own inventory if they wish.
+- RFQ enables the Purchasing Agent (PA) to create a Request for Quotation (RFQ), evaluate bids, award the order, and generate the purchase order. Using IFCAP and the Electronic Data Interchange (EDI) functionality that currently exists in Austin, the PA can electronically send the RFQ to one or many vendors and receive the bids electronically
+- PURCHASE CARD permits users at Service level and in A&MM to generate purchase orders against assigned credit card(s). Charges are passed electronically from the Austin Credit Card System (CCS) to IFCAP and users reconcile payments with IFCAP Purchase Orders. The assigned Approving Official then approves reconciled orders. The local IFCAP Purchase Card Registration file is maintained by the station designated Purchase Card Coordinator. Reconciled orders are then approved by assigned Approving Officials. There are many reports that provide data on the status of the purchase card orders and timeliness of the reconciliation and approval processes.
+- DELIVERY ORDERS permits users to generate purchase orders for contract items at the Service-level. Using switches that are site configurable, orders can bypass Fiscal and be obligated at time of signing by Service-level staff.
+IFCAP isn’t just a Fiscal and A&MM concern. IFCAP affects how every Control Point processes requests."
+IRM,"Information Resource Management
+A service at VA medical centers responsible for computer management and system security."
+IFR,Institution File Redesign
+IG,"Implementation Guide
+A document explaining the proper use of a standard for a specific business purpose. The X12N HIPAA IGs are the primary reference documents used by those implementing the associated transactions, and are incorporated into the HIPAA regulations by reference."
+IHE,Integrating the Healthcare Enterprise
+IHS,"Indian Health Service
+Mission to raise the physical, mental, social, and spiritual health of American Indians and Alaska Natives to the highest level. The IHS currently provides health services to approximately 1.5 million American Indians and Alaska Natives who belong to more than 557 federally recognized tribes in 35 states."
+Imaging System,"The VistA Imaging System is an extension of the Veterans Health Information System Technology Architecture (VistA) hospital information system that captures a wide range of clinical images, scanned documents, and other non-textual data files and makes them part of the patient’s electronic medical record."
+IMDQ,"The Identity Management Data Quality Team
+is a group of Data Management Analysts committed to improving and safeguarding the quality and accessibility of patient data throughout the VA enterprise. They are involved in many data quality initiatives, but their primary role is to assist VHA facilities in all matters related to the MPI."
+Imprest Funds,Monies used for cash or 3rd party draft purchases at a VA facility.
+IV&V,"Independent Verification and Validation
+The IV&V team supports the HSD&D mission by promoting standardization, improving software release quality and effectiveness of healthcare delivery through planned and controlled evaluation, testing, and integration of healthcare information systems. Visit the http://vista.med.va.gov/ivv/ site for additional information."
+inpatient,Patient who has been admitted to a hospital in order to be treated for a particular condition.
+inpatient visit,"The admission of a patient to a VAMC and any clinically significant change related to treatment of that patient. For example, a treating specialty change is clinically significant, whereas a bed switch is not. The clinically significant visits created throughout the inpatient stay would be related to the inpatient admission visit. If the patient is seen in an outpatient clinic while an inpatient, this is treated as a separate encounter."
+Input Template,A pre-defined list of fields that together comprise an editing session.
+Institution,"A Department of Veterans Affairs (VA) facility assigned a number by headquarters, as defined by Directive 97-058. An entry in the INSTITUTION file (#4) that represents the VHA.
+A major hospital with subdivisions, usually has a name < 30 letters and a three-digit division ID"
+ICN,"Integration Control Number
+The Integration Control Number is a unique identifier assigned to patients when they are added to the MPI. The ICN follows the ASTM-E1714-95 standard for a universal health identifier. ICNs link patients to their records across VA systems."
+IEN,"Internal Entry Number
+The number used to identify an entry within a file. Every record has a unique internal entry number."
+interdisciplinary note,"A feature of TIU for expressing notes from different care givers as a single episode of care. They always start with a single note by the initial contact person (e.g., triage nurse, case manager, attending) and continue with separate notes created and signed by other providers, then attached to the original note."
+interface terminology,"As opposed to reference terminology, this is a format of the terminology that aims at facilitating its access and use by end-users."
+Invitation for VIST Review,"This is an invitation to blinded veterans from VIST, offering a health evaluation. Veterans may accept or deny the invitation. This letter satisfies the requirements of M-2, Part XXIII and is meant to be printed as a mass mailing."
+IOD,Information Object Definition
+IP,"1. Inpatient Medications
+2. Integration Point"
+IR,Incident Reporting
+IRA,Initial Request Analysis.
+IRM,"Information Resources Management
+A service at VA medical centers responsible for computer management and system security."
+IRMS,Information Resources Management Service
+IRS Exemption Letter,This letter advises the Internal Revenue Service of legally blind status of veterans. This letter requires editing and is to be printed for individual veterans.
+IRT,"Incomplete Record Tracking
+A package TIU can interface with to transmit incomplete progress notes and discharge summaries."
+ISMS,"Integrated Supply Management System
+System in which catalog information exists. You can query for description and category stock number. ISMS is the system which replaced LOG I for Expendable Inventory."
+ISO,"1. Information Security Officer. Every medical center within the VA has one.
+Information Security Officer. Person responsible for information security at each VA Medical Center. Works in conjunction with Regional Security Officers (RISOs).
+2. International Standards Organization"
+ISS,Infrastructure and Security Services.
+ISSRA,Interim Security Services for Rehosted Applications
+ITAC,"Information Technology Approval Committee
+was established as an advisory committee to the Chief Information Officer to ensure that the Information Technology (IT) program supports VHA goals and to provide guidance concerning priorities for IT initiatives."
+item file,"A listing of items specified by A&MM service as being purchased repetitively. This file maintains a full description of the item, related stock numbers, vendors, contract numbers and a procurement history."
+item history,Procurement information stored in the Item File. A history is kept by Fund Control Point and is available to the Control Point at time of request.
+Item Master File,"A data base of items specific to each A&MMS. This file maintains a full description of the item and costs, as well as other related information, such as stock number, vendor, contract number and a procurement history."
+Item Master Number,A computer generated number used to identify an item in the Item Master file.
+Iterative Development,"The technique used to deliver the functionality of a system in a successive series of releases of increasing completeness. Each iteration is focused on defining, analyzing, designing, building, and testing a set of requirements."
+ISC,Information Systems Coordinator
+IV,Intravenous
+IVM,Income Verification Match
+J-Codes,"Previously HCPCS Level II has contained a set of codes with a high-order value of ""J"" to identify some drugs and some other items. The final HIPAA transactions and code set rule states that any J-codes identifying drugs will be dropped from the HCPCS and NDC codes will be used to identify all drug products."
+JAAS,Java Authentication and Authorization Service.
+JCAHO,Joint Commission on the Accreditation of Health Care Organizations
+JPTA,Joint Patient Tracking Application
+justification,A written explanation of why the Control Point requires the items requested. Adequate justification must be given if the goods are being requested from other than a mandatory source.
+KDC,Kernel Delphi Components
+kernel,"VistA software that functions as an intermediary between the host operating system and other VistA software applications so that VistA software can coexist in a standard operating-system-independent computing environment. Kernel provides a standard and consistent user and programmer interface between software applications and the underlying M implementation.
+The kernel provides shared services for VistA applications, system management tools, and a portability layer between the underlying operating system and application code. The shared services include sign-on and security management, menu management, error processing, a device handler, background task management, software installation, and library functions. System management tools permit optimization of site parameters to meet local requirements, system status reports, performance analysis, and alerting. Examples of site parameters include number of permissible failed access attempts before device lockout, password lifetimes, maximum spooled document size, batched job processor assignment, and task prioritization. The portability layer function provides application programmers with a stable environment despite changes in the underlying hardware, operating systems, or M interpreter.
+The Kernel is the software “scaffolding” that supports all VistA applications.
+XU - EVE-menu name."
+KIDS,Kernel Installation and Distribution System
+Kiosk,Public workstations shared by multiple users.
+KMPR,Capacity Management
+LA,Automated Lab Instruments
+LEDI,Laboratory Electronic Data Interchange
+LHR,legal health record
+LBR,Library
+LIM,Laboratory Information Manager
+Library Serials Module,"VA libraries spend a large portion of their materials budgets on serials such as medical journals. Each library has more than 100 active subscriptions and retrospective holdings for over 1000 titles are not unusual. The efficient management of these collections in terms of time and money is very important.
+The Serials Module provides automation of the data needed to manage these collections, exact bibliographic identification of the item; data on costs, vendors, numbers of copies; the ability to assign routings to titles and generate the routing slips automatically; a two-key check-in process to speed up the daily workload; and numerous reports for claims, holdings lists, and statistics."
+LMIP,Laboratory Management Index Program
+LSI,"Laboratory System Interface
+an instrument for translating data between VistA and auto instruments."
+liquidation,"The amount of money posted to the 1358 or Purchase Order as a payment to the vendor. They are processed through payment/invoice tracking.
+The Invoice Tracking process starts with the invoice received at the station. The invoice is then reviewed and logged into the IFCAP Payment/Invoice Tracking module where its movement thru the process is monitored."
+List Manager,"A VistA software product that creates a framework for user actions. List Manager is part of the VistA software infrastructure.
+VALM - EVE-menu."
+Local Registry,"The local file of patients that have either passed the selection rules and been added automatically to the registry, or have been added manually by a designated Coordinator."
+Local Registry Update,This process adds new patients (that have had data entered since the last update was run and pass the selection rules) to the local registry.
+LOG I,LOG I is the name of the Logistics A&MM computer located at the Austin Automation Center.
+LOINC,"Logical Observation Identifier Names and Codes.
+LOINC is a terminology generally accepted as the exchange standard for laboratory results. It was introduced in 1994 by the Regenstrief Institute (Clem McDonald & Stan Huff).
+medical standards"
+LUT,Look Up Table
+M,"Formerly named MUMPS
+Massachusetts General Hospital Utility Multi-Programming System is a software package, which consists of a high level programming language and a built-in database.
+Supported M systems: Intersystems M/SQL, DataTree DTM-PC, and MSM-Unix."
+M&IS,Messaging & Interfaces Services
+MAH,Medication Administration History
+mail message,An entry in the MESSAGE file (#3.9). The VistA electronic mail system (MailMan) supports local and remote networking of messages.
+MailMan,"VistA software that provides a mechanism for handling electronic communication, whether it's user-oriented mail messages, automatic firing of bulletins, or initiation of server-handled data transmissions.
+MailMan is another of VistA's core element with roots in the late 1970s. MailMan's name does not fully describe its functionality. Mail- Man is a general purpose messaging system that transmits messages such as email and alerts, computer programs, data dictionaries, and data. Senders and recipients can be users or programs within a single facility or anywhere within VHA. MailMan provides programmers with an API so that messaging can be easily integrated into applications (e.g. email report output, or notify staff of particular events).
+An electronic mail, teleconferencing, and networking system which is an integral part of the Kernel.
+Mailman is an integrated data channel in VistA for the distribution of:
+- Patches (Kernel Installation and Distribution System or KIDS builds)
+- Software releases (KIDS builds)
+- Computer-to-computer communications (HL7 transfers, Servers, etc.)
+- Person-to-person messaging (email)
+XM - EVE menu.
+File Manager"
+Manager Account,"UCI that can be referenced by non-manager accounts such as production accounts. Like a library, the MGR UCI holds percent"
+Mandatory Field,Field that requires a value. A null response is not valid.
+Mandatory Source,"A Federal Agency that sells supplies and services to the VA, Defense Logistics Agency (DLA), General Services Administration (GSA), etc."
+mapping,Mappings are sets of relationships of varying complexity established between two vocabularies in order to allow automated translation or connection between them. More specific concepts can generally be mapped accurately to more general concepts. Mappings cannot be used to add specificity to information that was captured at a more generic level.
+MAS,"Medical Administration Service
+This service, where it still exists, is now generally referred to as Health Administration Service.
+Now Patient Information Management System (PIMS)."
+Maximum Defined Data Set,"Under HIPAA, this is ""… all of the required data elements for a particular standard based on a specific implementation specification."" [45 CFR 162.103]. A framework under HIPAA whereby an entity creating a transaction is free to include whatever data any receiver might want or need. The recipient of a maximum data set is free to ignore any portion of the data not needed to conduct their part of the associated business transaction, unless the nonessential data is needed for coordination of benefits."
+MCMASTER,"Glossary of Epidemiology Terms
+medical standards"
+Means Test,A financial report used to determine if a patient may be required to make Copayments for care.
+Medical Code Sets,"Codes that characterize a medical condition or treatment. The code sets are usually maintained by professional societies and public health organizations.
+medical standards"
+META,Unified Medical Language System Metathesaurus
+MIRMO,Medical Information Resources Management Office.
+MIS,Common abbreviation/synonym used at VA site facilities for the Medical Information Section of Medical Administration Service. May be called HIMS (Health Information Management Section).
+MIS Manager,Manager of the Medical Information Section of Medical Administration Service at the site facility who has ultimate responsibility to see that MRTs complete their duties.
+MCCR,"Medical Care Cost Recovery
+A VISTA entity which supports Integrated Billing and many data capture pilot projects related to PCE."
+MDM,Medical Document Management
+MedDRA,"Medical Dictionary for Regulatory Activities
+is a clinically validated international medical terminology used by regulatory authorities and the regulated biopharmaceutical industry throughout the entire regulatory process, from pre-marketing to post-marketing activities, and for data entry, retrieval, evaluation, and presentation. In addition, it is the adverse event classification dictionary endorsed by the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH). MedDRA is used in the US, European Union, and Japan. Its use is currently mandated in Europe and Japan for safety reporting.
+MedDRA is managed by the MSSO (Maintenance and Support Services Organization), an organization that reports to the International Federation of Pharmaceutical Manufacturers and Associations (IFPMA). MedDRA is free for regulators and priced according to company revenue for industry. MedDRA is also available in Japanese. The Japanese counterpart for MSSO is called JMO.
+The MedDRA dictionary is organized by System Organ Class (SOC), divided into High-Level Group Terms (HLGT), High-Level Terms (HLT), Preferred Terms (PT) and finally into Lower-Level Terms (LLT). In addition, the MedDRA dictionary includes Standardized MedDRA Queries (SMQs). SMQs are groupings of terms that relate to a defined medical condition or area of interest.
+medical standards"
+medical intelligence,"is the assessment of potential health risks and health care capabilities that allows planning for medical countermeasures, health care support and medical personnel support.
+National Center for Medical Intelligence (NCMI), formerly known as the Armed Forces Medical Intelligence Center, was established in 1982. NCMI produces medical intelligence for global force protection and homeland health protection to safeguard U.S. interests worldwide.
+The growing integration between homeland health protection and medical intelligence allows NCMI to focus on a broader range of foreign medical threats to U.S. military and civilian personnel, allies, and other critical national interests, officials explained — pandemic flu, avian flu or other animal diseases that potentially could threaten the United States, for example. The national center includes a growing network for enhanced situational awareness and early warning, officials added, which will strengthen the integrated picture of health threats to U.S. citizens at home and abroad."
+medicine package,"The Medicine package is used for entering, editing, printing medical test results, and storing the data according to Department of Veterans Affairs FileMan structures. Cardiology, Gastrointestinal, Pulmonary, Hematology, Pacemaker, Rheumatology and Generalized Procedure are the current modules. The system also allows the automated interface of some tests such as ECG.
+The Medicine package has access to the DHCP Imaging System which allows digital images of procedures to be attached to patient records when run at a workstation.
+A Summary of Patient Procedures is provided on each menu. The option is documented in a separate section of the manual. Problem Oriented Consult is another option that is common throughout the Medicine package. Sub-specialty Management menus allow local control over various files such as Medications and Instruments."
+menu text,"The descriptive words that appear when a list of option choices is displayed. Specifically, the Menu Text field of the OPTION file (#19). For example, User's Toolbox is the menu text of the XUSERTOOLS option. The option's synonym is TBOX."
+MeSH,Medical Subject Headings
+message segments,"Each HL7 message is composed of segments. Segments contain logical groupings of data. Segments may be optional or repeatable. A [ ] indicates the segment is optional, the { } indicates the segment is repeatable. For each message category, there will be a list of HL7 standard segments and/or ""Z"" segments used for the message."
+MH Assistant,Mental Health Assistant
+MHS,Military Health System
+major operation,"Any operation performed under general, spinal, or epidural anesthesia plus all inguinal herniorrhaphies and carotid endarterectomies regardless of anesthesia administered."
+minor operation,All operations not designated as Major.
+MPD,Minimal Patient Dataset
+MPI,"The Master Patient Index
+is a database located on a system at the Austin Automation Center in Austin, Texas that holds over 14 million VA Patient entries. The role of the MPI is to uniquely identify a patient and ""link"" that patient's data throughout Veterans Health Administration (VHA) facility and corporate databases through the Integration Control Number (ICN). The MPI is the authoritative source for a patient's ICN and the ICN is the enterprise-wide identifier for a veteran and the key to accessing a patient's record across multiple databases.
+Creates an index that uniquely identifies each active patient treated by the Veterans Administration and to identify the VHA facilities where a patient is receiving care. This is crucial to the sharing of patient information across sites. Master Patient Index manages the synchronization of patient file information with the Master Patient Index and with the patient's treating facilities to insure that data being shared is stored in the correct patient's record."
+MPI/PD,"Master Patient Index/Patient Demographics
+Software initializes entries in the PATIENT file (#2) with the Master Patient Index, itself. The initialization process assigns an Integration Control Number (ICN), and creates a Treating Facility list of all sites at which the patient has received care. This information is then updated in the PATIENT file (#2) at all sites where the patient has been treated."
+MPPS,Modality Performed Procedure Step
+"MR, MRI",Magnetic Resonance Imaging
+MRT,"Medical Record Technician
+in the Medical Information Section of Medical Administration Service at the site facility who completes the tasks of assuring that all discharge summaries placed in a patient’s medical record have been verified for accuracy and completion and that a permanent chart copy has been placed in a patient’s medical record for each separate admission to the hospital."
+MSC Confirmation Message,A MailMan message generated by the Austin Message Switching Center that assigns an FMS number to an IFCAP transmission of documents.
+MSD,Military Service Data
+MST,Military Sexual Trauma
+MTF,DoD Military Treating Facilities
+MUMPS,"A programming language recognized by the American National Standards Institute (ANSI). The acronym MUMPS stands for Massachusetts General Hospital Utility Multi-programming System and is abbreviated as M.
+Now named M
+GT.M"
+MVC,Model View Controller
+MWB,"Messaging Workbench
+MWB is a tool that facilitates the creation of HL7 2.4 message profile definitions. MWB supports exporting of the message metadata into HL7v2 Message Conformance Profile format. (http://vista.med.va.gov/messaging/)
+The MWB is a tool for analysts and developers that facilitates the construction, documentation and reporting of message specifications as well as HL7 Conformance profiles. It follows the standards set by the HL7 version 2.4 Conformance Special Interest Group (SIG) and produces profiles that are interoperable with other HL7 compliant messaging tools. In addition to its profile documentation function, this tool includes other features to assist messaging developers, such as reverse engineering, message instance analysis and message instance validation."
+MWL,Modality Worklist
+N/A,Not Applicable
+namespacing,"Convention for naming VistA software elements. The DBA assigns unique two to four character string prefix for software developers to use in naming routines, options, and other software elements so that software can coexist. The DBA also assigns a separate range of file numbers to each software application.
+A naming convention followed in the VA to identify various applications and to avoid duplication. The namespace is used as the prefix for all routines and globals used by the application."
+NANDA,Classification of Nursing Diagnosis
+NDBI,National Database Integration
+NDC,"National Drug Code
+A medical code set that has been selected for use in the HIPAA transactions."
+NDF,National Drug File
+New Person (#200) File,"A VistA file that contains data on employees, users, practitioners, etc. of the VA."
+New Surgical Case,A surgical case that has not been previously requested or scheduled such as an emergency case. A surgical case entered in the records without being booked through scheduling will not appear on the Schedule of Operations or as an operative request.
+NFS,Nutrition and Food Service
+NHE,"Network Health Exchange
+NHE was developed at the Chicago Westside Veterans Affairs Medical Center (VAMC) and has evolved over several iterations. The NHE is a VistA component that provides clinicians with quick and easy access to patients' information from any site where they have been treated. NHE provides the computer mechanism for VAMC clinicians to retrieve clinical patient data from other medical centers. The requester is notified of returned patient data through an alert that appears with the VistA menu system. Patient data is displayed in a format similar to the integrated clinical reports found in Health Summary and can be viewed onscreen or printed.
+The NHE software accesses several VistA files which contain information concerning clinic visits, diagnoses, prescriptions, laboratory tests, radiology exams, and hospital admissions. It enables clinicians to request a total or brief medical or pharmacy record for a specified patient from a specified site or sites. This permits clinical staff to take advantage of the vast amount of clinical data supported through VistA.
+NHE is based on the Health Summary software. However, NHE does not make calls to Health Summary so it is not necessary for a site to have Health Summary installed in order to use NHE nor is familiarity with Health Summary required in order to use NHE.
+The NHE is another tool, similar to Patient Data Exchange (PDX). As compared to PDX, however, NHE offers fewer retrieval options and requires less input by the user, resulting in simpler, faster access to patient data.
+The NHE was the first phase of the MPI/Patient Demographics (MPI/PD project, which was formerly known as the Clinical Information Resource Network [CIRN] Project). The primary goal of the MPI/PD project is to assure full access to patients' information for primary care providers, regardless of location of care. NHE was released as an interim bridge to a more fully integrated clinical patient data exchange system."
+NHE Registry,"National Network Health Exchange (NHE) Registry
+This VistA software consists of two major components: 1) a local registry for use within a VA health care facility, and 2) a National Registry reflecting the events of care for patients at all VA facilities"
+NIC,Nursing Intervention Classifications
+NM,Nuclear Medicine
+NOC,Nursing Outcomes Classifications
+node,"In a tree structure, a point at which subordinate items of data originate. An M array element is characterized by a name and a unique subscript. Thus the terms: node, array element, and subscripted variable are synonymous. In a global array, each node might have specific fields or ""pieces"" reserved for data attributes such as name."
+Non-conforming Clinics,"Clinics with stop codes that do not comply with the assigned stop code restriction types of P=Primary, S=Secondary and E=Either."
+NOIS,National Online Information System
+Non-Formulary Drugs,"The medications, which are defined as commercially available drug products not included in the VA National Formulary."
+NPAD,National Person Administrative Database
+NPCD,"National Patient Care Database
+A database maintained in Austin which stores the minimum data set for all ambulatory care encounters."
+NPIRS,"National Patient Information Reporting System
+The national repository for I/T/Us. NPIRS is located in Albuquerque, New Mexico, and is operated by the Division of Information Resources (DIR), Office of Management Support (OMS). NPIRS provides a variety of services, including Third Party Billing and Area-wide reports, and is the primary source for defining User populations and for providing I/T/U workload reports to the United States Congress."
+NPF,"National Provider File
+The database envisioned for use in maintaining a national provider registry."
+NSN,"National Stock Number
+A number used to identify expendable supply items."
+NTRT,New Term Rapid Turnaround Process
+numeric field,Response that is limited to a restricted number of digits. It can be dollar valued or a decimal figure of specified precision.
+NVS,National VistA Support
+obligation,The commitment of funds. The process Fiscal uses to set aside monies to cover the cost of an Order.
+OCC,Office of Care Coordination
+Occasion of Service,"A specified instance of an act of service involved in the care of a patient or consumer which is not an encounter. These occasions of service may be the result of an encounter; for example, tests or procedures ordered as part of an encounter. A patient may have multiple occasions of service per encounter or per visit."
+OCS,VA Office of Cyber Security
+OE/RR,"Order Entry/Results Reporting
+A VistA product that evolved into the more comprehensive CPRS."
+OI,Office of Information
+OID,Oracle Internet Directory
+OIFO,Office of Information Field Office
+OMAHA,Omaha Nursing Diagnosis and Interventions
+OOPS,Asists
+Orderable Item,"name and dosage form that has no strength attached to it (e.g., Acetaminophen). The name with a strength attached is the Dispense Drug name (e.g., Acetaminophen 325mg)."
+Organization Code,"Accounting element functionally comparable to Cost Center, but used to organize purchases by the budget that funded them, not the purposes for spending the funds."
+Outpatient Visit,"The visit of an outpatient to one or more units or facilities located in or directed by the provider maintaining the outpatient health care services (clinic, physician’s office, hospital/medical center) within one calendar day. Outpatient encounters include scheduled appointments and walk-in unscheduled visits. A clinician’s telephone communications with a patient may be represented by a separate visit entry."
+Outstanding 2237,A&MM report that lists all the IFCAP generated 2237s pending action in A&MM.
+package,"A set of MUMPS routines, files, documentation and installation procedures that support a specific function within DHCP."
+PACS,Picture Archiving and Communication System
+PACU,Post Anesthesia Care Unit.
+PAF,Patient Assessment File
+PAI,Patient Assessment Instrument
+PAID,Personnel and Accounting Integrated Data
+PAIT,Patient Appointment Info. Transmission
+Partial,A Receiving Report (VA document that shows receipt of goods) for only some of the items ordered on a Purchase Order.
+Partial Date,The date that a warehouse clerk created a receiving report for a shipment.
+PAT Number,Pending Accounting Transaction number – the primary FMS reference number. See also Obligation Number.
+Patient Postings,A component of CPRS that includes messages about patients; an expanded version of CWAD.
+PATS,"Patient Advocate Tracking System/application.
+When completed, the Patient Advocate Tracking System/application will replace the current, site-based Patient Representative package with a national level application."
+PBM,Pharmacy Benefits Management
+PCE,"Patient Care Encounter
+is a VistA program that is part of the Ambulatory Data Capture Project (ADCP) and also provides Clinical Reminders, which appear on Health summaries.
+Patient Care Encounter (PCE) helps sites collect, manage, and display outpatient encounter data (including providers, procedure codes, and diagnostic codes) in compliance with the 10/1/96 Ambulatory Care Data Capture mandate from the Undersecretary of Health.
+PCE also helps sites document patient education, examinations, treatments, skin tests, and immunizations, as well as collect and manage other clinically significant data, such as defining Health Factors and Health Maintenance Reminders.
+PCE data may come from several sources, including external data acquisition devices (such as mark sense scanners), provider interaction (through workstations or portable computers), or clerical data entry. PCE allows new types of data (such as immunizations and purpose of visit) to be entered and stored, which can be retrieved by patient, ward, or clinic. Information entered through PCE can be viewed on Health Summaries or other reports.
+Goals of Ambulatory Data Capture Project
+- Capture purpose of visit/problem, diagnoses, procedures, and providers
+- Develop a fast, accurate method for getting ambulatory care data into VISTA
+- Return clinically relevant data back to the Clinician
+- Make data available for workload reporting, DSS, research, MCCR, and other ongoing VHA needs"
+PCMM,Primary Care Management Module
+PD,Patient Demographics
+PDM,Pharmacy Data Management
+PDU,Protocol Data Unit
+PDX,Patient Data Exchange
+Person Class,"An enhancement to the New Person file, XU*8*27 NEW PERSON File Patch (8/5/96), which enables all VAMC providers to be assigned a Profession/ Occupation code (Person Class) so that a Person Class can be associated with each ambulatory patient encounter by October 1, 1996."
+Personal Property Management,"A section of A&MM Service responsible for screening all requests for those items available from a Mandatory Source, VA Excess or Bulk sale. They also process requisitions for goods from Federal Agencies and equipment requests. In addition, they maintain the inventory of Warehouse stocked items and all equipment (CMRs) at the facilities they support."
+PID,Patient Identification
+PIMS,"Patient Information Management System
+VistA software package that includes Registration and Scheduling packages."
+PIR,Patient Incident Review File
+PLU,Patient Lookup
+POA,"Purchase Order Acknowledgment
+The message received electronically from an EDI vendor acknowledging the placement of an order."
+POC,Point of Care
+pointer,"The address at which a data value is stored in computer memory. A relationship between two VA FileMan files, a pointer is a file entry that references another file (forward or backward). Pointers can be an efficient means for applications to access data by referring to the storage location at which the data exists."
+Potentially Billable Event,"A service, which has all required data elements associated with it. These data elements are collected in the VistA Clinical Application."
+PPM/MMS,Personal Property Management/Materiel Management Service.
+PPP,Pharmacy Prescription Practices
+Primary View,the business process use the patient identity fields across VA facilities referred to as the Primary View of the MPI. Primary View is a transition from and disassociated with the Coordinating Master of Record (CMOR) view of the MPI.
+primary physician,The health care provider with primary responsibility for the directcare of the patient. This may be the resident or intern in ateaching facility or the staff physician in a non-affiliated hospital.
+prime time hours,"Prime time hours are 8 a.m. to 5 p.m. Monday through Friday, excluding holidays. Non-prime time hours are all other hours (i.e., weekends, nights and holidays)."
+Private Integration Agreement,"Where only a single application is granted permission to use an attribute/function of another VistA package. These IAs are granted for special cases, transitional problems between versions, and release coordination. A Private IA is also created by the requesting package based on their examination of the custodian package’s features. Example: one package distributes a patch from another package to ensure smooth installation."
+PRN,"Pro Re Nata, Latin meaning ‘as needed’"
+PROBLEM,Problem List Code Set
+Procedure,A test or action done for or to a patient that can be coded with the CPT coding process.
+Progress Notes,module of TIU is used by health care givers to enter and sign online patient progress notes and by transcriptionists to enter notes to be signed by caregivers at a later date. Caregivers may review progress notes online or print progress notes in chart format for filing in the patient’s record.
+Prompt Payment Terms,"The discount given to the VA for paying the vendor within a set number of days (e.g., 2% 20 days means the VA will save 2% of the total cost of the order if the vendor is paid within 20 days of receipt of goods)."
+protocol,"A set of procedures for establishing and controlling data transmission.
+Entry in the PROTOCOL file (#101). Used by the Order Entry/Results Reporting (OE/RR) package to support the ordering of medical tests and other activities."
+provider,"The actual provider of care performing the procedure. This provider can be a doctor, nurse, technician, or any designated team of medical professionals.
+The entity that furnishes health care to consumers. An individual or defined group of individuals who provide a defined unit of health care services (defined = codable) to one or more individuals at a single session.
+Health Care Provider
+Under HIPAA, this is ""…a provider of services as defined in the section 1861(u) of the [Social Security] Act, 42 USC 1395x(u), a provider of medical or other health services as defined in section 1861(s) of the Act, 42 USC 1395(s), and any other person or organization who furnishes, bills, or is paid for health care in the normal course of business."" [45 CFR 160.103]
+means a provider of services (as defined in section 1861(u) of the Act, 42 U.S.C. 1395x(u)), a provider of medical or health services (as defined in section 1861(s) of the Act, 42 U.S.C. 1395x(s)), and any other person or organization who furnishes, bills, or is paid for health care in the normal course of business."
+PSA (DA),Drug Accountability
+PSD (CS),Controlled Substances
+Pseudo-SSNs,False Social Security Numbers that are calculated internally to VistA and cannot be mistaken for valid SSNs because they end in P.
+PSGW (AR/WS),Auto Replenishment/Ward Stock
+PSIM,Person Service Identity Management
+"PT, PET",Positron Emission Tomography Scan
+PT ID,Patient Identification Number
+PTF,Patient Treatment File at AAC (Austin Automation Center)
+Purchase Card,"A card, similar to a credit card, that Purchase Card Users use to make purchases. Purchase Cards are not credit cards but debit cards that spend money out of a deposited balance of VA funds.
+Purchase Card Coordinator"
+Purchase Card Coordinator,"A person authorized by a VA station to monitor and resolve delinquent purchase card orders, help VA services record, edit and approve purchase card orders in a timely manner, assign purchase cards to IFCAP users, and monitor the purchase card expenses of VAMC services."
+PHA,"Purchase History Add
+Information about purchase orders which is automatically sent to Austin for archiving. This same transaction is also used to send a Purchase Order (PO) for EDI processing."
+Purchase History Modify (PHM),Information about amendments which is automatically sent to Austin for archiving.
+Purchase Order,A government document authorizing the purchase of the goods or services at the terms indicated.
+purging,"1. Purging is the process of removing old code sheets and batches from the system. This only removes the data associated with a code sheet or batch number and NOT the actual definition of the code sheets or batches.
+2. Removing of files from VistA Imaging Shares when the last access date exceeds the age specification within the local site parameters. Files that are evaluated by the purge process must have verifiable secondary storage references or they are automatically queued for BP archival (Jukebox)."
+PV,"Payment Voucher
+The Voucher Audit Clerk inspects invoices, maintains invoice records, and records and edits payment information. This role is essential in IFCAP, because Voucher Audit Clerks ensure that vendors are paid promptly and correctly."
+QA,Quality Assesment
+QAM QM,Clinical Monitoring System
+QAQ,The QM Integration Module (often called the QAQ routines) contains utilities that are common to some or all of the QM software packages.
+QM (QAM),"Quality Management
+QM Packages: Clinical Monitoring System, Incident Reporting, Occurrence Screen, Patient Feedback, Patient Representative, QM Integration Module"
+QUASAR,Quality Audiology and Speech Pathology Audit and Review
+RAD Delphi,"A Rapid Application Development (RAD) system/application developed by Borland International, Inc. Delphi is similar to Visual Basic from Microsoft, but whereas Visual Basic is based on the BASIC programming language, Delphi is based on Pascal."
+RAI/MDS,Resident Assessment Instrument/Minimum Data Set
+RAM,Resource Allocation Methodology
+RDV,"Remote Data View
+A CPRS application that allows a caregiver to view patient data that is stored at another VHA facility."
+reconciliation,Comparing of two records to validate IFCAP Purchase Card orders. Purchase Card Users compare IFCAP generated purchase card order data with the Credit Charge (CC) transaction sent from the CCS system in Austin.
+record,"Set of related data treated as a unit. An entry in a VA FileMan file constitutes a record. A collection of data items that refer to a specific entity (e.g., in a name-address-phone number file, each record would contain a collection of data relating to one person)."
+Record Tracking system,"The VA Record Tracking system is a comprehensive software package, written to aid file activities in assuring optimum availability of these records to a broad range of users within and outside the facility. Functions which were previously done manually have been computerized, promoting greater efficiency, uniformity and accuracy. Demographic record information is now available on-line to a broad range of users as well as a variety of reports which have been included to assist management in workload analysis and quality assurance.
+The system has been designed so that it may be used in conjunction with bar code technology, further enhancing efficiency and accuracy. The Record Tracking system uses VA FileManager, and integrates with the Radiology and PIMS packages in performance of its functions.
+This package was originally designed for use in tracking Medical Administration and/or Radiology records. A great deal of flexibility has been built into the system so that it may be custom-tailored to meet the needs of practically any file activity."
+reference terminology,A set of concepts and relationships that provides a common reference point for comparison and aggregation of data about the entire health care process.
+registry medication,A defined list of medications used for a particular registry
+registration process,"During a registration, if a patient does not have an ICN, the patient is checked against the entries in the MPI to determine if the patient already is established or needs to be added. The MPI may return a list of patients who are possible matches. If the patient is truly new and there are no potential matches on the MPI, the MPI will assign an ICN and assigns the requesting site as the CMOR. If the patient is already known at the MPI, the ICN and CMOR is returned and a HL7 message is sent to the CMOR to add this new facility to the list of Treating Facilities for this patient. Registration for patients who already have an ICN at the Facility. At the CMOR site, ADT-A04 Registration HL7 messages are sent to the MPI and the MPI then sends updates to those sites where the patient is known. These messages update the date of last activity and any changes to descriptive data. At a non-CMOR site an ADT-A04 message is sent to the CMOR, via the MPI."
+RIL,"Repetitive Item List
+A method the Control Point uses to order items in the Item File. The Control Point enters the Item Master Number, the quantity and vendor and IFCAP can sort and generate 2237 requests from the list. A RIL can be created by using the Auto-Generate feature within the Inventory portion of the package."
+Risk Assessment,Part of the Surgery software that provides medical centers a mechanism to track information related to surgical risk and operative mortality. Completed assessments are transmitted to the NSQIP or the CICSP national database for statistical analysis.
+RISO,"Regional Information Security Officer.
+Regional representative of VA Medical Center Information Security Officers (ISOs)."
+ROI,Release of Information
+Requesting Site,"As is relates to HL7 Messages, it is the site initiating a message to another site requesting some action be taken."
+Required Field,"A mandatory field, one that must not be left blank. The prompt for such a field will be repeated until the user enters a valid response."
+Result,"A consequence of an order. Refers to evaluation or status results. In regards to Consult/Request Tracking (GMRC), results refer to a TIU document or Medicine procedure result attached to the consult or procedure request."
+Requestor,"This is the health care provider (e. g., the physician/clinician) who requests the order to be done."
+RFC,Request For Comments
+RIS,Radiology Information System
+RISO,"Regional Information Security Officer.
+Regional representative of VA Medical Center Information Security Officers (ISOs)."
+RN,Registered Nurse
+ROES,"Remote Order Entry System
+Software used by the Denver Distribution Center (DDC), the Precision Data Solutions Transcription Service software, and the VA Home Telehealth software."
+routine,"Program or a sequence of instructions called by a program that may have some general or frequent use. M routines are groups of program lines, which are saved, loaded, and called as a single unit via a specific name."
+routing slip,"When printed for a specified date, it shows the current appointmenttime, clinic, location and stop code. It also shows future appointments."
+RPC,"Remote Procedure Call
+Is a protocol that one program can use to request a service from a program located on another computer network. Essentially M code may take optional parameters to do some work and then return either a single value or an array back to the client application. Callbacks provided by the client-server architecture supported by the VistA host server and the Delphi client software."
+RPCBroker,The Client-Server interface component.
+RPMS,Resource and Patient Management System
+RSNA,Radiological Society of North America
+RUG,Resource Utilization Group
+Running Balance,"A running record of all the transactions generated and approved for a Control Point. Provides information that shows the total amount of funds committed, obligated, and remaining to be spent for a specified fiscal quarter."
+RVC,Reason for Visit Classification for Amb Care
+SAGG,Statistical Analysis of Global Growth
+SAC,"Standards and Conventions.
+Through a process of quality assurance, all VistA software is reviewed with respect to SAC guidelines as set forth by the Standards and Conventions Committee (SACC)."
+SACC,VistA's Standards and Conventions Committee. This Committee is responsible for maintaining the SAC.
+SCD,Spinal Cord Dysfunction
+scheduling options,"The technique of requesting that Task Manager run an option at a given time, perhaps with a given rescheduling frequency."
+scheduled operation,"Operation has both an operating room and a scheduled starting time, but the operation has not yet begun."
+SCP,Service Class Provider
+screen editor,VA FileMan's Screen-oriented text editor. It can be used to enter data into any WORD-PROCESSING field using full-screen editing instead of line-by-line editing.
+Screen Server,"Screen Server is a screen-based data entry utility. It allows the user to display and select data elements for entering, editing, and deleting information. The format is designed to display a number of data fields at one time on a menu. With Screen Server, a number of data elements are displayed at one time on a menu and the user is able to choose on which element to work. Each Screen Server arrangement consists of three basic parts: a header, data elements, and an action prompt."
+ScreenMan,VA FileMan utility that provides a screen-oriented interface for editing and displaying data
+Screenman Forms,"Screen-oriented display of fields, for editing or simply for reading. VA FileMan's Screen Manager is used to create forms that are stored in the FORM file (#.403) and exported with a software application. Forms are composed of blocks (stored in the BLOCK file #.404) and can be regular, full screen pages or smaller, ""pop-up"" pages."
+SCU,"Service Class User
+Software Design Document"
+Section 508,"Section 508 of the Rehabilitation Act Amendments of 1998 requires that when Federal agencies develop, procure, maintain, or use electronic and information technology, they shall ensure that the electronic and information technology allows persons with disabilities to have access to and use of information and data that is comparable to the access to and use of information and data by persons who are not individuals with disabilities, unless an undue burden would be imposed on the agency."
+Security Key,"The purpose of Security Keys is to set a layer of protection on the range of computing capabilities available with a particular software package. The availability of options is based on the level of system access granted to each user.
+Functions very much like your house or office key. Certain options may be locked with a key and that key assigned only to authorized users."
+Sensitive Patient,"Patient whose record contains certain information, which may be deemed sensitive by a facility, such as political figures, employees, patients with a particular eligibility or medical condition. If a shared patient is flagged as sensitive at one of the treating sites, a bulletin is sent to the DG SENSITIVITY mail group at each subscribing site telling where, when, and by whom the flag was set. Each site can then review whether the circumstances meet the local criteria for sensitivity flagging."
+SERA,Systematic External Review of Autopsies.
+SERS,Systematic External Review of Surgical Pathology.
+service,"Medical care and items such as medical diagnosis and treatment, drugs and biologicals, supplies, appliances, and equipment, medical social services, and use of hospital Regional Primary Care Hospital (RPCH) or Skilled Nursing Facility (SNF) facilities."
+shared patient,"Patient who has been seen at more than one site. The CMOR keeps the Treating Facility list updated every time a new facility where the patient has been seen identifies itself to the MPI. The CMOR then broadcasts, through the MPI, the updated lists to all the other facilities that share this patient."
+Site Manager/IRM Chief,"At each site, the individual who is responsible for managing computer systems, installing and maintaining new modules, and serving as a liaison to the CIO Field Offices."
+SMD,"Secure Menu Delegation
+A controlled system whereby menus and keys can be allocated by people other than IRM staff, such as application coordinators, who have been so authorized."
+SNOMED,"Systematized Nomenclature of Medicine
+Maintained and distributed by the College of American Pathologists, the Systematized Nomenclature of Medicine - Clinical Terminology was first introduced in 1965. SNOMED CP - SNOMED Clinical Terms
+medical standards"
+software,"The set of programs, files, documentation, help prompts, and installation procedures required for a given application (e.g., Laboratory, Pharmacy, and PIMS). A VistA software environment is composed of elements specified via the PACKAGE file (#9.4). Elements include files, associated templates, namespaced routines, and namespaced file entries from the OPTION, HELP FRAME, BULLETIN, and FUNCTION files. As public domain software, VistA software can be requested through the FOIA."
+SOP,Service-Object Pair
+Spacebar Return,You can answer a VA FileMan prompt by pressing the spacebar and then the Return key. This indicates to VA FileMan that you would like the last response you were working on at that prompt recalled.
+SPD,"Supply, Processing, Distribution"
+special queuing,Option attribute indicating that Task Manager should automatically run the option whenever the system reboots.
+Special Survey,An ongoing survey of care given to patients all eging Agent Orangeor ionizing radiation exposure. Each visit by such a patient must receive special survey dispositioning which records whether treatment provided was related to that exposure. This data is used for congressional reporting purposes.
+SQA,Software Quality Assurance
+SQLI,SQL Interface
+SRS,Software Requirements Specifications
+SSDI,"Social Security Death Index
+is a database used for genealogical research as well as enabling users to locate a death certificate, find an obituary, discover cemetery records and track down probate records. IMDQ uses the SSDI (http://ssdi.rootsweb.com/) as a resource for verifying patients’ dates of death."
+SSN,Social Security Number
+SSO,"1. Standard setting organization - an organization accredited by the American National Standards Institute that develops and maintains standards for information transactions or data elements, or any other standard that is necessary for, or will facilitate the implementation of, this part.
+2.Single Sign On"
+SSO/UC,Single Signon/User Context
+Stacked Documents,"The purchase orders, receiving reports, and 1358s which are sent electronically to Fiscal and stored in a file for printing at a later time rather than being printed immediately."
+stop code,A three-digit number corresponding to an additional stop/service a patient received in conjunction with a clinic visit. Stop code entries are used so that medical facilities may receive credit for the services rendered during a patient visit.
+STS,Standards and Terminology Services
+subscript,"A symbol that is associated with the name of a set to identify a particular subset or element. In M, a numeric or string value that: is enclosed in parentheses, is appended to the name of a local or global variable, and identifies a specific node within an array."
+Supported Reference Integration Agreement,"This applies where any VistA application may use the attributes/functions defined by the IA (these are also called ""Public ""). An example is an IA that describes a standard API such as DIE or VADPT. The package that creates/maintains the Supported Reference must ensure it is recorded as a Supported Reference in the IA database. There is no need for other VistA packages to request an IA to use these references; they are open to all by default."
+SR,Surgery
+standards,"Medical standards: HL7, SNOMED, DICOM, ACR, ICD, COSTAR, HCPCS, COSTART, MedDRA, DoDFAC, DSM-IIIR, LOINC, MCMASTER"
+Survey Generator,"is a software package which allows creation and maintenance of computerized survey forms. It also provides for entry of any respondents answers via computer terminal or a hard copy filled out and then entered by any designated person. In addition, it provides useful statistical information by survey alone or by demographic data items."
+system identifier,"is a three character code that identifies the code sheet type. For example, AMS represents Amis code sheets, NSY represents staffing management code sheets, WGE represents wage survey code sheets, etc."
+systems of interest,"VA facilities that have seen patients and entered them as entries onto the MPI. This also refers to non-VistA systems that have a registered interest in a patient (e.g., Federal Health Information Exchange [FHIE], HomeTeleHealth, Person Service Identity Management [PSIM], Health Data Repository [HDR], etc)."
+T&TC,508 Accessibility Testing and Training Center
+Task Manager,Kernel module that schedules and processes background tasks (also called TaskMan)
+TITLE 38,Service Connected Disabilities
+template,"A template is a structured aggregation of one or more archetypes, with optional order, used to represent clinical data.
+1. Means of storing report formats, data entry formats, and sorted entry sequences. A template is a permanent place to store selected fields for use at a later time. Edit sequences are stored in the INPUT TEMPLATE file (#.402), print specifications are stored in the PRINT TEMPLATE file (#.4), and search or sort specifications are stored in the SORT
+2. An HL7 template is a data structure, based on the HL7 Reference Information Model that expresses the data content needed in a specific clinical or administrative context. Templates are drawn from the RIM and make use of HL7 vocabulary domains. Templates have been described as constraints on HL7 artifacts."
+TIU,"Text Integration Utility
+1. TIU is a software package written and maintained by VHA that allows users to create many different types of clinical documents and store them in a patient’s electronic record.
+TIU application was designed as a repository for a variety of text documents that belong in the patient record. The purpose of TIU is to simplify the access and use of clinical documents for both clinical and administrative VAMC personnel, by standardizing the way clinical documents are managed. TIU includes a document hierarchy that is made up of Classes, Document Classes and Document titles. Titles a under a Document Class take on the characteristics of that document class and each document class has its own unique requirements.
+Text Integration Utilities (TIU) simplifies the access and use of clinical documents for both clinical and administrative VAMC personnel, by standardizing the way clinical documents are managed. In connection with Authorization/Subscription Utility (ASU), a hospital can set up policies and practices for determining who is responsible or has the privilege for performing various actions on required VHA documents."
+TIUHL7,"TIU Generic HL7 Interface
+The TIU Generic HL7 Interface (TIUHL7) consists of the following components: Logical Link(s), Receiving Application, Event Driver, Subscriber, Sending Application."
+TLC,total lung capacity.
+third party billings,Billings where a party other than the patient is billed.
+transaction,"the transmission of information between two parties to carry out financial or administrative activities related to health care. It includes the following types of information transmissions:
+(1) Health care claims or equivalent encounter information.
+(2) Health care payment and remittance advice.
+(3) Coordination of benefits.
+(4) Health care claim status.
+(5) Enrollment and disenrollment in a health plan.
+(6) Eligibility for a health plan.
+(7) Health plan premium payments.
+(8) Referral certification and authorization.
+(9) First report of injury.
+(10) Health claims attachments.
+(11) Other transactions that the Secretary may prescribe by regulation."
+Transaction Number,funded a Control Point (See Budget Analyst User’s Guide). It consists of the Station Number – Fiscal Year – Quarter – Control Point – Sequence Number.
+treating facility,"Any facility (VAMC) where a patient has applied for care, or has been added to the local PATIENT file (#2) (regardless of VISN) and has identified this patient to the MPI will be placed in the TREATING FACILITY LIST file (#391.91)."
+Treating Facility List,Table of institutions at which the patient has received care. This list is used to create subscriptions for the delivery of patient clinical and demographic information between sites.
+Trigger,"A type of VA FileMan cross-reference. Often used to update values in the database given certain conditions (as specified in the trigger logic). For example, whenever an entry is made in a file, a trigger could automatically enter the current date into another field holding the creation date."
+trigger events,An activity in VistA that creates HL7 messages.
+trim point,The expected Length of Stay range based on the LOS distribution for each DRG category.
+TSR,Treating Specialty Report
+TWAIN,"An interface standard for scanners, cameras and other input devices. A TWAIN driver is generally supplied by the equipment vendor."
+UB-92,A uniform institutional claim form developed by the National Uniform Billing Committee (NUBC) that has been in use since 1993.
+UCI,User Class Identification
+UD,Unit Dose
+UID,Unique Identifier
+UMDNS,Universal Medical Device Nomenclature System
+UMLS,"Unified Medical Language System.
+A project initiated by the National Library of Medicine to collect and map several terminologies to each others in order to facilitate access to biomedical resources. Thus, a clinician could the same set of words to search both articles indexed with MeSH and patients whose data was encoded with SNOMED."
+UNDEF,Undefined Code/Coding System
+unit of issue,"A description of the quantity/packaging combination in which the item is issued to the end user; it may be different from the Unit of Purchase, which is the combination used when the item is procured from the vendor. For example, a vendor may sell an item in cases of 24 cans, but the end user receives individual cans from that case."
+unit of purchase,"A description of the quantity/packaging combination in which VA purchases the item from the vendor; it may be different from the Unit of Issue, which is the combination used to actually issue the item to the end user. See also Unit Conversion Factor."
+US,Ultrasound
+user,"An Administrator, a Clinician, or a Researcher"
+user access,"a limited level of access, to a computer system, which is sufficient for using/operating a package, but does not allow programming, modification to data dictionaries, or other operations that require programmer access. Any option, for example, can be locked with the key XUPROGMODE, which means that invoking that option requires programmer access. The user’s access level determines the degree of computer use and the types of computer programs available. The System Manager assigns the user an access level."
+User Class,User Classes are the basic components of the User Class hierarchy of ASU which allows sites to designate who is authorized to do what to documents or other clinical entities.
+USR (ASU),Authorization/Subscription
+UWA92,Glossary of Neuronames
+VA,"Veterans Affairs, Department of Veterans Affairs"
+VACO,Veterans Affairs Central Office
+VADATS,Veterans Administration Data Transmission System
+VALM,List Manager
+VAMC,Veterans Affairs Medical Centers
+VARO,Veterans Administration Regional Office
+VBA,Veteran Benefits Administration
+VBA IBBA,"VBA Intranet BDN / BIRLS Access (IBBA)
+This VBA application is designed for Web browser access to veteran information data bases (Currently, Benefits Delivery Network (BDN) and BIRLS and the Vocational Rehabilitation and Employment master record."
+VBA SHARE,"This is a VBA application which is utilized by the Regional Offices to access BIRLS, C&P, PIF, PHF, Corporate Database, Social Security and COVERS records. IMDQ uses VBA SHARE as a resource for verifying patient identity data as well as military information."
+VDEF,VistA Data Extraction Framework
+VDSI,VistA Data Systems & Integration.
+Vendor file,"An IFCAP file of vendor information solicited by the facility. This file contains ordering and billing addresses, contract information, FPDS information and telephone numbers. The debtor’s address may be drawn from this file, but is maintained separately. If the desired vendor is not in the file, contact A&MM Service to have it added.
+An IFCAP (or FMS) file of vendors with which the facility does business. This file contains ordering and billing addresses, contract information, FPDS information and telephone numbers. File 440 contains information about the vendors that your station does business with. The debtor's address may be drawn from this file but is maintained separately. If the desired vendor is not in the file, contact A&MM Service to have it added."
+Vendor ID Number,The ID number assigned to a vendor by FMS.
+VERA,Veterans Equitable Resource Allocation
+verify code,The Kernel's Sign-on/Security system uses the Verify code to validate the user's identity. This is an additional security precaution used in conjunction with the Access code.
+VHA,Veterans Health Administration
+VIC,Veteran Identification Card
+VIE,"VistA Interface Engine
+communication components work concurrently to model, automate, track, and optimize communication processes within and between data systems, providing a high emphasis on security and reliability. The product also enables real-time, multi-directional communication among VistA applications, the Health Data Repository (), Commercial-Off-The-Shelf (COTS) products, and other systems. In other words, VIE provides an integrated environment for managing the flow of critical information throughout the VHA's corporate business systems, as well as through external vendors and computer systems. This is the formal communications gateway to VistA applications. Formerly called the Vitria Interface Engine. Information on setup and operation of the VIE component is located on VIE’s web page at: http://vista.med.va.gov/messaging/vie"
+VIS,"Veterans Information Solution
+This intranet-based application is designed to provide a consolidated view of information about veterans and active service members. The IMDQ uses VIS as a resource for verifying patient identity data as well as military information."
+visit,"Each encounter with a provider during a patient’s appointment; can also be a telephone call or a walk-in.
+encounter"
+Visit Tracking (VSIT),A VISTA package which links patient-related information in a file structure that allows meaningful reporting and historically accurate categorization of patient events and episodes of care.
+VISN,"Veterans Information System Network
+is the collective name of the regional organizations that manage computerization within a region."
+VIST,Visual Impairment Service Team
+VistA,"Veterans Health Information Systems and Technology Architecture (VistA) of the Veterans Health Administration (VHA), Department of Veterans Affairs (VA)
+VistA software, developed by the VA, is used to support clinical and administrative functions at VHA sites nationwide. It is both roll-and-scroll- and GUI-based software that undergoes a quality assurance process to ensure conformity with namespacing and other VistA standards and conventions (see SAC).
+Server-side code is written in M, and, via Kernel, runs on all major M implementations regardless of vendor. Client-side code is written in Java or Borland Delphi and runs on the Microsoft operating system."
+VistA Toaster,"is an appliance (virtual machine) consisting of VistA, GT.M and Linux that runs under QEMU (http://fabrice.bellard.free.fr/qemu/), which enables the toaster to operate under Linux, Mac OS X and Windows.
+QEMU - open source processor emulator. QEMU is an emulator for various CPUs. It works on Linux, Windows, FreeBSD and Mac OS X.
+QEMU is a generic and open source machine emulator and virtualizer.
+When used as a machine emulator, QEMU can run OSes and programs made for one machine (e.g. an ARM board) on a different machine (e.g. your own PC). By using dynamic translation, it achieves very good performances.
+When used as a virtualizer, QEMU achieves near native performances by executing the guest code directly on the host CPU. A host driver called the QEMU accelerator (also known as KQEMU) is needed in this case. The virtualizer mode requires that both the host and guest machine use x86 compatible processors."
+VistALink 1.5,"VistALink 1.5 resource adapter is a transport layer that provides communication between HealtheVet-VistA Java applications and VistA/M servers, in both client-server and n-tier environments. It allows Java applications to execute remote procedure calls (RPCs) on the VistA/M system and retrieve results, synchronously. VistALink 1.5 is also referred to as “VistALink J2M.”
+VistALink consists of Java-side adapter libraries and an M-side listener:
+- The adapter libraries use the J2EE Connector Architecture (J2CA 1.0) specification to integrate Java applications with legacy systems.
+- The M listener process receives and processes requests from client applications."
+VistAWeb,"is an intranet web application used to review remote patient information found in VistA and the HDR databases. To a large extent, VistAWeb mirrors the reports behavior of the Computerized Patient Record System (CPRS) and Remote Data View (RDV). However, by permitting a more robust and timely retrieval of remote-site patient data, VistAWeb is also an enhancement to CPRS/RDV.
+There are three ways to access VistAWeb. VistAWeb can be made available by adding it to the CPRS Tools Menu, and it can be selected as the default method of retrieving data from the Remote Data Available button in CPRS. These two methods are referred to as CPRS-spawned versions of VistAWeb. They are compliant with the HL7 Clinical Context Object Workgroup (CCOW) standards and therefore maintain context with the patient selected in CPRS. As a third option, VistAWeb can be accessed in a standalone mode by entering the uniform resource locator (URL) link (https://vistaweb.med.va.gov/) in the Internet Explorer address bar. Эти методы совместимы"
+Vitals application,"The Vitals application is designed to collect the vital signs and measurements that are associated with a patient's hospital stay or outpatient clinic visit, and store the data in the patient's electronic medical record. Data can be accessed by several VistA applications that interface with the Vitals/Measurements application, such as CPRS, Health Summary, and Pharmacy. The Vitals module is used to enter vitals data, create user templates, view allergies, mark incorrect vitals as entered in error, and edit user preferences for data display on the vitals data table. The Vitals module also allows users to print several different Vitals reports.
+Vitals has been made CCOW-compliant and can now synchronize with other CCOW-compliant VistA applications.
+VITL5_P18.EXE - инсталляционный файл. После установки требеут соединения с сервером VistA, порт 9200."
+VL,Visible Light
+VMC,"VistA Magnetic Cache
+The files servers’ setup as shares in the network location file for newly captured and recently access clinical images."
+VOI,Volume of Interest
+VPFS,Veterans Personal Finance System
+VR,Value Representation
+VRQ,"FMS Vendor Request document.
+When a new vendor is added to IFCAP a VRQ message is sent electronically to the Austin FMS Vendor unit to determine if the vendor exists in the central vendor system. If the vendor is not in the system, Austin will confirm information and establish the vendor in the central file. If vendor exists in central file already, Austin will verify the data. See also VUP."
+VSIT,Visit Tracking
+VSS,Voluntary Service System
+VTA,Veteran Tracking Application
+VUID,"VHA Unique Identifier
+are meaningless numbers that are automatically assigned to concepts, properties, and relationships in a terminology to facilitate their access and manipulation by computers."
+VUP,"Vendor Update Message.
+This message is sent electronically from the FMS system to ALL IFCAP sites to ensure that the local vendor file contains the same data as the central vendor file in Austin. This message will contain the FMS Vendor ID for the vendor and also the Alternate Address Indicator if applicable. See also VRQ."
+WKLD,The Workload (WKLD) codes are based on the CAPcodes. Specific instruments and products are referenced by the Workload codes. These references should not be perceived as endorsement or approvals by the VistA system or the Laboratory software package.
+WorldVistA,"WorldVistA was formed to extend and collaboratively improve the VistA electronic health record and health information system for use outside of its original setting. The system was originally developed by the U.S. Department of Veterans Affairs (VA) for use in its veterans hospitals, outpatient clinics, and nursing homes. WorldVistA has a number of development efforts aimed at adding new software modules such as pediatrics, obstetrics, and other functions not used in the veterans' healthcare setting. WorldVistA seeks to help those who choose to adopt the VistA system to successfully master, install, and maintain the software for their own use. WorldVistA will strive to guide VistA adopters and programmers towards developing a community based on principles of open, collaborative, peer review software development and dissemination. [http://worldvista.org]"
+WWU,Weighted Work Unit
+XA,X-Ray Angiography
+XT,Toolkit

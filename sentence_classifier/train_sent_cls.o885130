@@ -1,0 +1,15 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+CCHIT
+usage: train.py [-h] [--project_name PROJECT_NAME]
+train.py: error: unrecognized arguments: --proj_name CCHIT
+CM1
+usage: train.py [-h] [--project_name PROJECT_NAME]
+train.py: error: unrecognized arguments: --proj_name CM1
+PTC
+usage: train.py [-h] [--project_name PROJECT_NAME]
+train.py: error: unrecognized arguments: --proj_name PTC
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
